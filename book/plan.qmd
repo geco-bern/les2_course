@@ -1,0 +1,148 @@
+# Course plan {#sec-plan}
+
+For fall semester 2023.
+
+## Block 1: Introduction to Applied Geodata Science methods {.unnumbered}
+
+This first block serves to recap essential machine learning methods that will be applied in the tutorials of subsequent blocks, and to recap methods for implementing a reproducible data science workflow in the form that will be required for the submission of the self-guided project report.
+
+Contents are covered in the [Applied Geodata Science book](https://geco-bern.github.io/agds/).
+
+### Session 1 - 21.09. {.unnumbered}
+
+- [Introduction to Applied Geodata Science](https://geco-bern.github.io/agds/introduction.html#what-is-applied-geodata-science)
+- [The data science workflow and data science basics](https://geco-bern.github.io/agds/introduction.html#the-data-science-workflow)
+- [The concept of modelling](https://geco-bern.github.io/agds/introduction.html#a-new-modelling-paradigm)
+- Applications of machine learning in Geography and Earth system sciences (lecture)
+
+### Session 2 - 28.09. {.unnumbered}
+
+- [RMarkdown](https://geco-bern.github.io/agds/gettingstarted.html#rmarkdown)
+- [Workspace management and reproducible workflows](https://geco-bern.github.io/agds/gettingstarted.html#wspmgmt)
+- [Regression and classification](https://geco-bern.github.io/agds/regressionclassification.html)
+
+### Session 3 - 05.10. {.unnumbered}
+
+- Supervised machine learning (AGDS book [Chapter 9](https://geco-bern.github.io/agds/supervisedmli.html) and [10](https://geco-bern.github.io/agds/supervisedmlii.html))
+
+### Session 4 - 12.10. {.unnumbered}
+
+- [Random Forest](https://geco-bern.github.io/agds/randomforest.html)
+- Interpretable machine learning
+
+## Block 2: Phenology modelling {.unnumbered}
+
+*Lead: Koen Hufkens*
+
+[Link to tutorial](https://geco-bern.github.io/handfull_of_pixels/phenology_modelling.html).
+
+[TBC: context]
+
+### Session 5 - 19.10. {.unnumbered}
+
+- Introduction to phenology modelling
+- Self-study of tutorial and exercises
+
+### Session 6 - 26.10. {.unnumbered}
+
+- Self-study of tutorial and exercises
+
+## Block 3: Digital soil mapping {.unnumbered}
+
+[Link to tutorial](https://padasch.github.io/digital_soil_mapping/)
+
+[TBC: context]
+
+### Session 7 - 02.11. {.unnumbered}
+
+- Introduction to digital soil mapping
+- Self-study of tutorial and exercises
+
+### Session 8 - 09.11. {.unnumbered}
+
+- Self-study of tutorial and exercises
+
+## Block 4: Land cover classification {.unnumbered}
+
+*Lead: Koen Hufkens*
+
+[Link to tutorial](https://geco-bern.github.io/handfull_of_pixels/land_cover_classification.html)
+
+[TBC: context]
+
+### Session 9 - 16.11. {.unnumbered}
+
+- Introduction to land cover classification
+- Self-study of tutorial and exercises
+
+### Session 10 - 23.11. {.unnumbered}
+
+- Self-study of tutorial and exercises
+
+## Report exercise 1: Spatial upscaling {.unnumbered}
+
+See @sec-upscaling
+
+### Session 11 - 30.11. {.unnumbered}
+
+- Self-study of literature and report exercise
+
+### Session 12 - 07.12. {.unnumbered}
+
+- Self-study of literature and report exercise
+
+## Report exercise 2: Self-guided project {.unnumbered}
+
+See @sec-project
+
+### Session 13 - 14.12. {.unnumbered}
+
+- Free work on report exercises
+
+### Session 14 - 21.12. {.unnumbered}
+
+- Free work on report exercises
+- Wrap-up
+
+
+<!-- ```{r} -->
+<!-- ``` -->
+
+<!-- ### Basic expressions -->
+
+<!-- An expression is a set of commands that returns a value. -->
+
+<!-- Click `Run Code` to run the following R code. -->
+
+<!-- Execute this simple calculation. -->
+
+<!-- ```{r} -->
+<!-- 50 * 2.2 -->
+<!-- ``` -->
+
+<!-- Show the first rows of a table. -->
+
+<!-- ```{r} -->
+<!-- head(mtcars) -->
+<!-- ``` -->
+
+<!-- ::: {.callout-note} -->
+<!-- ### Exercise -->
+
+<!-- Show the last rows of the `mtcars` table. -->
+
+<!-- ```{r} -->
+<!-- # Add you code here -->
+<!-- ``` -->
+
+<!-- Your result should look like the plot below -->
+<!-- ::: -->
+
+<!-- ::: {.callout-tip collapse="true"} -->
+<!-- ### Expected Result -->
+
+<!-- ```{r} -->
+<!-- #| echo: false -->
+<!-- tail(mtcars) -->
+<!-- ``` -->
+<!-- ::: -->

@@ -1,0 +1,21 @@
+# Logistics {#sec-logistics}
+
+- Lead: Prof. Benjamin Stocker; contributing authors and assistance: Dr. Koen Hufkens, Pascal Schneider; - Geocomputation and Earth Observation, GIUB, UniBe. 
+- Course language is English.
+- Thursday 8.15-10.00 is our presence time, use it for your communication with us.
+- No email communications.
+- Lecture notes are available as online book at https://geco-bern.github.io/agds/ and in tutorials (see @sec-plan). They contain all contents, as reproducible code, with exercises and solutions for self-study.
+- No recordings are made available. It’s all in the book and tutorials.
+- Students are expected to master contents taught in *480094 Applied Geodata Science I*.
+- Students work on their own laptops.
+- The number of students is limited to 25.
+- The course is “creditable” (German: anrechenbar) towards the Master studies in Geography and Climate Sciences at University of Bern.
+- This course follows a hybrid class setup: input lectures + flipped classroom + self-guided project
+
+<!-- This is a book created from markdown and executable code. -->
+
+<!-- See @knuth84 for additional discussion of literate programming. -->
+
+<!-- ```{r} -->
+<!-- 1 + 1 -->
+<!-- ``` -->

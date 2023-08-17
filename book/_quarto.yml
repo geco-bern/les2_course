@@ -6,16 +6,16 @@ execute:
   freeze: auto
 
 book:
-  title: "Book Title"
-  subtitle: "Subtitle"
-  author: "Koen Hufkens"
-  date: "2023/01/01"
+  title: "Applied Geodata Science II"
+  subtitle: "Introducing applications of machine learning in Geography and Environmental Sciences"
+  author: "Benjamin Stocker"
+  date: "17 August 2023"
   page-navigation: true
   chapters:
     - index.qmd
-    - intro.qmd
-    - basicr.qmd
-    - ggplot.qmd
+    - logistics.qmd
+    - plan.qmd
+    - reportexercises.qmd
     - references.qmd
   favicon: "figures/favicon.ico"
   twitter-card: true
