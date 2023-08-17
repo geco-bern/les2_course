@@ -2,36 +2,106 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Book Title",
+    "title": "Applied Geodata Science II",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2"
+    "text": "About this course"
   },
   {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "1  Introduction",
-    "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "objectID": "index.html#course-description",
+    "href": "index.html#course-description",
+    "title": "Applied Geodata Science II",
+    "section": "Course description",
+    "text": "Course description\nThis course consolidates essential methods of the data science workflow, introduced in the course Applied Geodata Science I and the book Applied Geodata Science and demonstrates common applications of machine learning methods in Geography and Environmental Sciences by worked examples."
   },
   {
-    "objectID": "basicr.html",
-    "href": "basicr.html",
-    "title": "2  Basic R",
-    "section": "",
-    "text": "2.0.1 Basic expressions\nAn expression is a set of commands that returns a value.\nClick Run Code to run the following R code.\nExecute this simple calculation.\n\n50 * 2.2\n\n[1] 110\n\n\nShow the first rows of a table.\n\nhead(mtcars)\n\n                   mpg cyl disp  hp drat    wt  qsec vs am gear carb\nMazda RX4         21.0   6  160 110 3.90 2.620 16.46  0  1    4    4\nMazda RX4 Wag     21.0   6  160 110 3.90 2.875 17.02  0  1    4    4\nDatsun 710        22.8   4  108  93 3.85 2.320 18.61  1  1    4    1\nHornet 4 Drive    21.4   6  258 110 3.08 3.215 19.44  1  0    3    1\nHornet Sportabout 18.7   8  360 175 3.15 3.440 17.02  0  0    3    2\nValiant           18.1   6  225 105 2.76 3.460 20.22  1  0    3    1\n\n\n\n\n\n\n\n\nExercise\n\n\n\nShow the last rows of the mtcars table.\n\n# Add you code here\n\nYour result should look like the plot below\n\n\n\n\n\n\n\n\nExpected Result\n\n\n\n\n\n\n\n                mpg cyl  disp  hp drat    wt qsec vs am gear carb\nPorsche 914-2  26.0   4 120.3  91 4.43 2.140 16.7  0  1    5    2\nLotus Europa   30.4   4  95.1 113 3.77 1.513 16.9  1  1    5    2\nFord Pantera L 15.8   8 351.0 264 4.22 3.170 14.5  0  1    5    4\nFerrari Dino   19.7   6 145.0 175 3.62 2.770 15.5  0  1    5    6\nMaserati Bora  15.0   8 301.0 335 3.54 3.570 14.6  0  1    5    8\nVolvo 142E     21.4   4 121.0 109 4.11 2.780 18.6  1  1    4    2"
+    "objectID": "index.html#learning-objectives",
+    "href": "index.html#learning-objectives",
+    "title": "Applied Geodata Science II",
+    "section": "Learning objectives",
+    "text": "Learning objectives\n\nImplement a data science workflow for common domain-specific machine learning-based modelling tasks.\nAnalyse and visualise models and their predictions and communicate insights.\nDescribe the challenges of model fitting and evaluate model generalisability.\nAdopt and benefit from Open Science practices and resources for data-intensive research projects."
   },
   {
-    "objectID": "ggplot.html",
-    "href": "ggplot.html",
-    "title": "3  ggplot demo",
-    "section": "",
-    "text": "library(ggplot2)\n\nggplot(data = mtcars, mapping = aes(x = mpg, y = hp)) + \n  geom_point()"
+    "objectID": "index.html#course-contents",
+    "href": "index.html#course-contents",
+    "title": "Applied Geodata Science II",
+    "section": "Course contents",
+    "text": "Course contents\nAfter a recap of Applied Geodata Science basics, a set of common applications of machine learning methods in Geography and Environmental Science are introduced. Applications cover a wide diversity of data science methods and serve to demonstrate fundamental concepts and implementations, including mechanistic modelling, unsupervised classification, and supervised machine learning. The course combines a theoretical and a hands-on component and consists of a mixture of lectures, exercises, and a (small) self-guided project.\nSee Course Plan for a complete overview and contextualisation of the different applications."
   },
   {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
+    "objectID": "index.html#exam-modalities",
+    "href": "index.html#exam-modalities",
+    "title": "Applied Geodata Science II",
+    "section": "Exam modalities",
+    "text": "Exam modalities\nStudents hand in the report of the self-guided project, building on completed exercises, and submitted in the form of a reproducible workflow (code repository). See Logistics for more information."
+  },
+  {
+    "objectID": "index.html#target-audience-and-prerequisites",
+    "href": "index.html#target-audience-and-prerequisites",
+    "title": "Applied Geodata Science II",
+    "section": "Target audience and prerequisites",
+    "text": "Target audience and prerequisites\nMaster students in Geography and in Climate Sciences at the University of Bern.\nStudents are expected to master contents taught in 480094 Applied Geodata Science I. If AGDS I has not been attended, it is expected that equivalent knowledge has been gained from comparable courses in other study programs, or that contents of the Applied Geodata Science book are independently studied until October 12, 2023 (before the fourth session in fall semester 2023).\nThis course is a product of the group for Geocomputation and Earth Observation, Institute of Geography with contributions by Dr. Koen Hufkens and Pascal Schneider."
+  },
+  {
+    "objectID": "logistics.html",
+    "href": "logistics.html",
+    "title": "1  Logistics",
     "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "Lead: Prof. Benjamin Stocker; contributing authors and assistance: Dr. Koen Hufkens, Pascal Schneider; - Geocomputation and Earth Observation, GIUB, UniBe.\nCourse language is English.\nThursday 8.15-10.00 is our presence time, use it for your communication with us.\nNo email communications.\nLecture notes are available as online book at https://geco-bern.github.io/agds/ and in tutorials (see Chapter 2). They contain all contents, as reproducible code, with exercises and solutions for self-study.\nNo recordings are made available. It’s all in the book and tutorials.\nStudents are expected to master contents taught in 480094 Applied Geodata Science I.\nStudents work on their own laptops.\nThe number of students is limited to 25.\nThe course is “creditable” (German: anrechenbar) towards the Master studies in Geography and Climate Sciences at University of Bern.\nThis course follows a hybrid class setup: input lectures + flipped classroom + self-guided project"
+  },
+  {
+    "objectID": "plan.html#block-1-introduction-to-applied-geodata-science-methods",
+    "href": "plan.html#block-1-introduction-to-applied-geodata-science-methods",
+    "title": "2  Course plan",
+    "section": "Block 1: Introduction to Applied Geodata Science methods",
+    "text": "Block 1: Introduction to Applied Geodata Science methods\nThis first block serves to recap essential machine learning methods that will be applied in the tutorials of subsequent blocks, and to recap methods for implementing a reproducible data science workflow in the form that will be required for the submission of the self-guided project report.\nContents are covered in the Applied Geodata Science book.\n\nSession 1 - 21.09.\n\nIntroduction to Applied Geodata Science\nThe data science workflow and data science basics\nThe concept of modelling\nApplications of machine learning in Geography and Earth system sciences (lecture)\n\n\n\nSession 2 - 28.09.\n\nRMarkdown\nWorkspace management and reproducible workflows\nRegression and classification\n\n\n\nSession 3 - 05.10.\n\nSupervised machine learning (AGDS book Chapter 9 and 10)\n\n\n\nSession 4 - 12.10.\n\nRandom Forest\nInterpretable machine learning"
+  },
+  {
+    "objectID": "plan.html#block-2-phenology-modelling",
+    "href": "plan.html#block-2-phenology-modelling",
+    "title": "2  Course plan",
+    "section": "Block 2: Phenology modelling",
+    "text": "Block 2: Phenology modelling\nLead: Koen Hufkens\nLink to tutorial.\n[TBC: context]\n\nSession 5 - 19.10.\n\nIntroduction to phenology modelling\nSelf-study of tutorial and exercises\n\n\n\nSession 6 - 26.10.\n\nSelf-study of tutorial and exercises"
+  },
+  {
+    "objectID": "plan.html#block-3-digital-soil-mapping",
+    "href": "plan.html#block-3-digital-soil-mapping",
+    "title": "2  Course plan",
+    "section": "Block 3: Digital soil mapping",
+    "text": "Block 3: Digital soil mapping\nLink to tutorial\n[TBC: context]\n\nSession 7 - 02.11.\n\nIntroduction to digital soil mapping\nSelf-study of tutorial and exercises\n\n\n\nSession 8 - 09.11.\n\nSelf-study of tutorial and exercises"
+  },
+  {
+    "objectID": "plan.html#block-4-land-cover-classification",
+    "href": "plan.html#block-4-land-cover-classification",
+    "title": "2  Course plan",
+    "section": "Block 4: Land cover classification",
+    "text": "Block 4: Land cover classification\nLead: Koen Hufkens\nLink to tutorial\n[TBC: context]\n\nSession 9 - 16.11.\n\nIntroduction to land cover classification\nSelf-study of tutorial and exercises\n\n\n\nSession 10 - 23.11.\n\nSelf-study of tutorial and exercises"
+  },
+  {
+    "objectID": "plan.html#report-exercise-1-spatial-upscaling",
+    "href": "plan.html#report-exercise-1-spatial-upscaling",
+    "title": "2  Course plan",
+    "section": "Report exercise 1: Spatial upscaling",
+    "text": "Report exercise 1: Spatial upscaling\nSee Section 3.1\n\nSession 11 - 30.11.\n\nSelf-study of literature and report exercise\n\n\n\nSession 12 - 07.12.\n\nSelf-study of literature and report exercise"
+  },
+  {
+    "objectID": "plan.html#report-exercise-2-self-guided-project",
+    "href": "plan.html#report-exercise-2-self-guided-project",
+    "title": "2  Course plan",
+    "section": "Report exercise 2: Self-guided project",
+    "text": "Report exercise 2: Self-guided project\nSee Section 3.2\n\nSession 13 - 14.12.\n\nFree work on report exercises\n\n\n\nSession 14 - 21.12.\n\nFree work on report exercises\nWrap-up"
+  },
+  {
+    "objectID": "reportexercises.html#sec-upscaling",
+    "href": "reportexercises.html#sec-upscaling",
+    "title": "3  Report exercises",
+    "section": "3.1 Spatial upscaling",
+    "text": "3.1 Spatial upscaling\n[TBC]"
+  },
+  {
+    "objectID": "reportexercises.html#sec-project",
+    "href": "reportexercises.html#sec-project",
+    "title": "3  Report exercises",
+    "section": "3.2 Self-guided project",
+    "text": "3.2 Self-guided project\n[TBC]"
   }
 ]
