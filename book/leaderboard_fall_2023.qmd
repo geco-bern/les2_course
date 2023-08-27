@@ -98,7 +98,7 @@ lb <- lapply(files, function(file){
     cm <- round(cm$overall[1:2], 4)
     
     # set users
-    user <- str_split(basename(file), "_", simplify = TRUE)[,1]
+    user <- gsub("_results.csv", "", basename(file))
     
     # bind to results
     cm <- data.frame(
