@@ -33,7 +33,7 @@ library(stringr)
 
 # check if on github
 ON_GIT <- ifelse(
-  Sys.getenv("GITHUB_TOKEN") == "",
+  Sys.getenv("GITHUB_ACTION") == "",
   FALSE,
   TRUE
 )
