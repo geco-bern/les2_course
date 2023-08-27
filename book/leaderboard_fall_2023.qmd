@@ -10,19 +10,26 @@ Training data is generated through a random subset of 200 pixels for each class 
 
 Your model should be able to run on the test dataset, which puts constraints on which additional data you could download. Submit your model results run on the test dataset as a CSV file containing a table of model results (one label on each row, and a header called `lulc_class`).
 
-|lulc_class|
-|----------|
-| 1 |
-| 3 |
-| 5 |
-| ... |
+
+```{r echo = FALSE}
+library(kableExtra)
+# demo data
+demo <- data.frame(
+  lulc_class = c(1,3,5, "...")
+)
+
+# plot the matrix as a leaderboard table
+kbl(demo) |>
+  kable_styling(
+    full_width = FALSE
+  )
+```
 
 Leaderboard submissions will be accepted two (2) times during the semester, with a final submission included with your overall report.
 
 ## Leaderboard
 
-```{r echo=FALSE, message = FALSE, warning = FALSE, error = FALSE, include = FALSE}
-library(kableExtra)
+```{r echo=FALSE, message = FALSE, warning = FALSE, error = FALSE, include = TRUE}
 library(stringr)
 
 # load reference test labels from github secrets
