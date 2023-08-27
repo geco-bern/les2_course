@@ -1,0 +1,127 @@
+## Leaderboard Fall 2023
+
+This is the leaderboard for the fall of 2023 Land-Use and Land-Cover competition. Submissions are required, but the competition is amicable as rankings will only be considered in the general context of grading. Scoring at the level or better than the base model as demonstrated in the course is however required.
+
+### Available data
+
+Training data is generated through a random subset of 200 pixels for each class in the Fritz et al. 2017 land-use and land-cover validation dataset, restricted to locations with >80% coverage (per land cover type), located on the northern hemisphere. Locations for the training data are provided in a separate file. The equivalent test data for this competition consists of 100 unlabelled locations providing the same spectral information.
+
+
+### Leaderboard submission
+
+Your model should be able to run on the test dataset, which puts constraints on which additional data you could download. Submit your model results run on the test dataset as a CSV file containing a table of model results (one label on each row, and a header called `lulc_class`).
+
+|lulc_class|
+|----------|
+| 1 |
+| 3 |
+| 5 |
+| ... |
+
+## Leaderboard
+
+```{r echo=FALSE, message = FALSE, warning = FALSE, error = FALSE, include = FALSE}
+library(caret)
+library(kableExtra)
+library(stringr)
+
+# load reference test labels from github secrets
+reference <- data.frame(
+  lulc_class = sample(1:10, 100, replace = TRUE)
+)
+
+# check if on github
+ON_GIT <- ifelse(
+  length(Sys.getenv("GITHUB_TOKEN")) <= 1,
+  FALSE,
+  TRUE
+)
+
+# if not on git generate demo files
+if(!ON_GIT) {
+  
+  # random <- data.frame(
+  #   lulc_class = sample(1:10, 100, replace = TRUE)
+  # )
+  # 
+  # write.table(
+  #   random,
+  #   here::here("data/leaderboard/fall_2023/random_results.csv"),
+  #   col.names = TRUE,
+  #   row.names = FALSE, 
+  #   quote = FALSE
+  # )
+} else {
+  reference <- Sys.getenv("TEST")
+  print(str(reference))
+  reference <- data.frame(
+    lulc_class = reference
+  )
+}
+
+# list csv file in data/leaderboard/fall_2023
+files <- list.files(
+  here::here("data/leaderboard/fall_2023"),
+  "*.csv",
+  full.names = TRUE
+  )
+
+# loop over all files
+lb <- lapply(files, function(file){
+  
+  # read in leaderboard submission
+  modelled <- read.table(file, header = TRUE, sep = ",")
+  
+  # calculate confusion matrix
+  cm <-  try(
+    caret::confusionMatrix(
+      data = as.factor(modelled$lulc_class),
+      reference = as.factor(reference$lulc_class)
+    )
+  )
+  
+  # trap confusion matrix errors (if any)
+  if(inherits(cm, "try-error")){
+    return(NULL)
+  } else {
+    # split out overall accuracy and kappa
+    cm <- round(cm$overall[1:2], 4)
+    
+    # set users
+    user <- str_split(basename(file), "_", simplify = TRUE)[,1]
+    
+    # bind to results
+    cm <- data.frame(
+      User = user,
+      Accuracy = cm[1],
+      Kappa = cm[2],
+      row.names = NULL
+    )
+    
+    return(cm)
+  }
+})
+
+# bind rows
+lb <- do.call("rbind", lb)
+```
+
+
+```{r echo=FALSE, message = FALSE, warning = FALSE, error = FALSE}
+if(!is.null(lb)) {
+  # order rows from high to low
+  lb <- lb[order(lb$User),]
+  
+  # plot the matrix as a leaderboard table
+  kbl(
+    lb,
+    caption = "Leaderboard, ranked according to highest accuracy score."
+  ) |>
+    kable_styling(
+      bootstrap_options = "striped",
+      full_width = TRUE
+    )
+}
+
+```
+
