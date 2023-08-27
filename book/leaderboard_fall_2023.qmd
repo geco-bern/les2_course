@@ -28,7 +28,7 @@ Leaderboard submissions will be accepted two (2) times during the semester, with
 
 ## Leaderboard
 
-```{r echo=TRUE, message = FALSE, warning = FALSE, error = FALSE, include = TRUE}
+```{r echo=TRUE, message = FALSE, warning = FALSE, error = FALSE, include = FALSE}
 library(stringr)
 
 # check if on github
@@ -37,8 +37,6 @@ ON_GIT <- ifelse(
   FALSE,
   TRUE
 )
-
-print(ON_GIT)
 
 # if not on git generate demo files
 if(!ON_GIT) {
@@ -57,13 +55,19 @@ if(!ON_GIT) {
   # )
 } else {
   reference <- Sys.getenv("LULC")
-  print(reference)
+  
+  # convert from dirty string
+  # to numeric (check these break
+  # now every line is a value in the environmental
+  # variable defined in github settings when a long
+  # string this would be a space or tab)
+  reference <- as.numeric(unlist(strsplit(test, "\r\n")))
+  
+  # reshuffle into data frame
   reference <- data.frame(
     lulc_class = reference
   )
 }
-
-print(reference)
 
 # list csv file in data/leaderboard/fall_2023
 files <- list.files(
@@ -112,7 +116,6 @@ lb <- lapply(files, function(file){
 lb <- do.call("rbind", lb)
 ```
 
-
 ```{r echo=FALSE, message = FALSE, warning = FALSE, error = FALSE}
 if(!is.null(lb)) {
   # order rows from high to low
@@ -126,8 +129,13 @@ if(!is.null(lb)) {
     kable_styling(
       bootstrap_options = "striped",
       full_width = TRUE
+    ) |>
+    footnote(
+      ifelse(ON_GIT,
+             "This table was automatically generated! Updates after submission can take over 10 minutes.",
+             "This is a dummy local render for debugging purposes."
+             )
     )
 }
-
 ```
 
