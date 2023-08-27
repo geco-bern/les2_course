@@ -10,7 +10,6 @@ Training data is generated through a random subset of 200 pixels for each class 
 
 Your model should be able to run on the test dataset, which puts constraints on which additional data you could download. Submit your model results run on the test dataset as a CSV file containing a table of model results (one label on each row, and a header called `lulc_class`).
 
-
 ```{r echo = FALSE}
 library(kableExtra)
 # demo data
@@ -25,17 +24,12 @@ kbl(demo) |>
   )
 ```
 
-Leaderboard submissions will be accepted two (2) times during the semester, with a final submission included with your overall report.
+Leaderboard submissions will be accepted two (2) times during the semester, with a final submission included with your overall report. The CSV file submitted **via pull request** should be named `xzy_results.csv` (with xyz replaced by your github handle). Submissions via email will not be considered.
 
 ## Leaderboard
 
 ```{r echo=TRUE, message = FALSE, warning = FALSE, error = FALSE, include = TRUE}
 library(stringr)
-
-# load reference test labels from github secrets
-reference <- data.frame(
-  lulc_class = sample(1:10, 100, replace = TRUE)
-)
 
 # check if on github
 ON_GIT <- ifelse(
@@ -48,13 +42,14 @@ print(ON_GIT)
 
 # if not on git generate demo files
 if(!ON_GIT) {
-  
-  # random <- data.frame(
-  #   lulc_class = sample(1:10, 100, replace = TRUE)
-  # )
-  # 
+ 
+  # generate local random reference set
+  reference <- data.frame(
+    lulc_class = sample(1:10, 100, replace = TRUE)
+  )
+    
   # write.table(
-  #   random,
+  #   reference,
   #   here::here("data/leaderboard/fall_2023/random_results.csv"),
   #   col.names = TRUE,
   #   row.names = FALSE, 
@@ -62,11 +57,13 @@ if(!ON_GIT) {
   # )
 } else {
   reference <- Sys.getenv("LULC")
-  print(str(reference))
+  print(reference)
   reference <- data.frame(
     lulc_class = reference
   )
 }
+
+print(reference)
 
 # list csv file in data/leaderboard/fall_2023
 files <- list.files(
