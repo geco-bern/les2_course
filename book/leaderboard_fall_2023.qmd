@@ -6,7 +6,6 @@ This is the leaderboard for the fall of 2023 Land-Use and Land-Cover competition
 
 Training data is generated through a random subset of 200 pixels for each class in the Fritz et al. 2017 land-use and land-cover validation dataset, restricted to locations with >80% coverage (per land cover type), located on the northern hemisphere. Locations for the training data are provided in a separate file. The equivalent test data for this competition consists of 100 unlabelled locations providing the same spectral information.
 
-
 ### Leaderboard submission
 
 Your model should be able to run on the test dataset, which puts constraints on which additional data you could download. Submit your model results run on the test dataset as a CSV file containing a table of model results (one label on each row, and a header called `lulc_class`).
@@ -18,10 +17,11 @@ Your model should be able to run on the test dataset, which puts constraints on 
 | 5 |
 | ... |
 
+Leaderboard submissions will be accepted two (2) times during the semester, with a final submission included with your overall report.
+
 ## Leaderboard
 
 ```{r echo=FALSE, message = FALSE, warning = FALSE, error = FALSE, include = FALSE}
-library(caret)
 library(kableExtra)
 library(stringr)
 
@@ -115,7 +115,7 @@ if(!is.null(lb)) {
   # plot the matrix as a leaderboard table
   kbl(
     lb,
-    caption = "Leaderboard, ranked according to highest accuracy score."
+    caption = "The leaderboard ranked according to highest accuracy score. A random dataset is included as a reference, as well as the default model as demonstrated in the Handful of Pixels LULC chapter."
   ) |>
     kable_styling(
       bootstrap_options = "striped",
