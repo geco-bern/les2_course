@@ -34,9 +34,7 @@ Contents are covered in the [Applied Geodata Science book](https://geco-bern.git
 
 *Lead: Koen Hufkens*
 
-[Link to tutorial](https://geco-bern.github.io/handfull_of_pixels/phenology_modelling.html).
-
-[TBC: context]
+In both Block 2 and 4 I will focus on a set of examples which are rather limited in spatial scope, using just a handfull of pixels. In contrast to what the cloud computing revolution promised, many ideas start out from site or localized studies. The focus of these few chapters from the [Handful of Pixels](https://geco-bern.github.io/handfull_of_pixels/phenology_modelling.html) book is deliberate. I will show you through both examples in vegetation seasonality (phenology) and land-use and land-cover mapping (Block 4) that you can experiment with geo-spatial data on limited compute infrastructure. Furthermore, it also shows you that true science can be done with relatively modest means. You will learn to do big science with small data.
 
 ### Session 5 - 19.10. {.unnumbered}
 
@@ -66,9 +64,7 @@ Contents are covered in the [Applied Geodata Science book](https://geco-bern.git
 
 *Lead: Koen Hufkens*
 
-[Link to tutorial](https://geco-bern.github.io/handfull_of_pixels/land_cover_classification.html)
-
-[TBC: context]
+In this section I introduce [Land-Use and Land-Cover mapping](https://geco-bern.github.io/handfull_of_pixels/land_cover_classification.html). It shows how to train a Land-Use and Land-Cover machine learning algorithm and scale these results to a larger region. The exercises include an amicable competitive component, where a better model needs to be created and results submitted to a leaderboard (see @sec-leaderboard for details).
 
 ### Session 9 - 16.11. {.unnumbered}
 
