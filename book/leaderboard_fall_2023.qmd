@@ -1,6 +1,6 @@
 ## Fall 2023 {.unnumbered}
 
-This is the leaderboard for the fall of 2023 Land-Use and Land-Cover competition. Submissions are required, but the competition is amicable as rankings will only be considered in the general context of grading. Scoring at the level or better than the base model as demonstrated in the course is however required.
+This is the leaderboard for the fall of 2023 Land-Use and Land-Cover competition (complementing the Land-Use and Land-Cover mapping chapter). Submissions are required, but the competition is amicable as rankings will only be considered in the general context of grading. Scoring at the level or better than the base model as demonstrated in the course is however required.
 
 ### Available data
 
