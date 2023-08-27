@@ -29,7 +29,7 @@ Leaderboard submissions will be accepted two (2) times during the semester, with
 
 ## Leaderboard
 
-```{r echo=FALSE, message = FALSE, warning = FALSE, error = FALSE, include = TRUE}
+```{r echo=TRUE, message = FALSE, warning = FALSE, error = FALSE, include = TRUE}
 library(stringr)
 
 # load reference test labels from github secrets
@@ -43,6 +43,8 @@ ON_GIT <- ifelse(
   FALSE,
   TRUE
 )
+
+print(ON_GIT)
 
 # if not on git generate demo files
 if(!ON_GIT) {
