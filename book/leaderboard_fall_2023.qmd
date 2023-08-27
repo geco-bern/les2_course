@@ -1,4 +1,4 @@
-## Leaderboard Fall 2023
+## Fall 2023 {.unnumbered}
 
 This is the leaderboard for the fall of 2023 Land-Use and Land-Cover competition. Submissions are required, but the competition is amicable as rankings will only be considered in the general context of grading. Scoring at the level or better than the base model as demonstrated in the course is however required.
 
@@ -61,7 +61,7 @@ if(!ON_GIT) {
   #   quote = FALSE
   # )
 } else {
-  reference <- Sys.getenv("TEST")
+  reference <- Sys.getenv("LULC")
   print(str(reference))
   reference <- data.frame(
     lulc_class = reference
