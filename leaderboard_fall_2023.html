@@ -6,10 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Benjamin Stocker">
-<meta name="dcterms.date" content="2023-08-17">
 
-<title>Applied Geodata Science II</title>
+<title>Applied Geodata Science II - 4&nbsp; Fall 2023</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -22,7 +20,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -32,7 +49,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./logistics.html" rel="next">
+<link href="./references.html" rel="next">
+<link href="./reportexercises.html" rel="prev">
 <link href="./figures/favicon.ico" rel="icon">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -66,11 +84,13 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+<script src="site_libs/kePrint-0.0.1/kePrint.js"></script>
+<link href="site_libs/lightable-0.0.1/lightable.css" rel="stylesheet">
 
-<meta name="twitter:title" content="Applied Geodata Science II">
-<meta name="twitter:description" content="Introducing applications of machine learning in Geography and Environmental Sciences">
-<meta name="twitter:image" content="./images/logo_unibern_squid3.png">
-<meta name="twitter:card" content="summary_large_image">
+
+<meta name="twitter:title" content="Applied Geodata Science II - 4&nbsp; Fall 2023">
+<meta name="twitter:description" content="">
+<meta name="twitter:card" content="summary">
 </head>
 
 <body class="nav-sidebar floating nav-fixed">
@@ -127,7 +147,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">About this course</a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./leaderboard_fall_2023.html">Leaderboard</a></li><li class="breadcrumb-item"><a href="./leaderboard_fall_2023.html"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Fall 2023</span></a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -137,36 +157,7 @@ ul.task-list li input[type="checkbox"] {
   </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-body">
-      <h1 class="title">Applied Geodata Science II</h1>
-            <p class="subtitle lead">Introducing applications of machine learning in Geography and Environmental Sciences</p>
-                      </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta">
-
-      <div>
-      <div class="quarto-title-meta-heading">Author</div>
-      <div class="quarto-title-meta-contents">
-               <p>Benjamin Stocker </p>
-            </div>
-    </div>
-      
-      <div>
-      <div class="quarto-title-meta-heading">Published</div>
-      <div class="quarto-title-meta-contents">
-        <p class="date">August 17, 2023</p>
-      </div>
-    </div>
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
         <div class="mt-2 flex-shrink-0 align-items-center">
@@ -178,7 +169,7 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">About this course</span></a>
   </div>
 </li>
@@ -211,7 +202,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./leaderboard_fall_2023.html" class="sidebar-item-text sidebar-link">
+  <a href="./leaderboard_fall_2023.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Fall 2023</span></span></a>
   </div>
 </li>
@@ -233,56 +224,113 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#about-this-course" id="toc-about-this-course" class="nav-link active" data-scroll-target="#about-this-course">About this course</a>
-  <ul class="collapse">
-  <li><a href="#course-description" id="toc-course-description" class="nav-link" data-scroll-target="#course-description">Course description</a></li>
-  <li><a href="#learning-objectives" id="toc-learning-objectives" class="nav-link" data-scroll-target="#learning-objectives">Learning objectives</a></li>
-  <li><a href="#course-contents" id="toc-course-contents" class="nav-link" data-scroll-target="#course-contents">Course contents</a></li>
-  <li><a href="#exam-modalities" id="toc-exam-modalities" class="nav-link" data-scroll-target="#exam-modalities">Exam modalities</a></li>
-  <li><a href="#target-audience-and-prerequisites" id="toc-target-audience-and-prerequisites" class="nav-link" data-scroll-target="#target-audience-and-prerequisites">Target audience and prerequisites</a></li>
-  </ul></li>
+  <li><a href="#available-data" id="toc-available-data" class="nav-link active" data-scroll-target="#available-data"><span class="header-section-number">4.0.1</span> Available data</a></li>
+  <li><a href="#leaderboard-submission" id="toc-leaderboard-submission" class="nav-link" data-scroll-target="#leaderboard-submission"><span class="header-section-number">4.0.2</span> Leaderboard submission</a></li>
+  <li><a href="#leaderboard" id="toc-leaderboard" class="nav-link" data-scroll-target="#leaderboard"><span class="header-section-number">4.1</span> Leaderboard</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title"><span id="sec-leaderboard" class="quarto-section-identifier"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Fall 2023</span></span></h1>
+</div>
 
 
 
+<div class="quarto-title-meta">
 
-<section id="about-this-course" class="level1 unnumbered">
-<h1 class="unnumbered">About this course</h1>
-<section id="course-description" class="level2">
-<h2 class="anchored" data-anchor-id="course-description">Course description</h2>
-<p>This course consolidates essential methods of the data science workflow, introduced in the course Applied Geodata Science I and the book <a href="https://geco-bern.github.io/agds/">Applied Geodata Science</a> and demonstrates common applications of machine learning methods in Geography and Environmental Sciences by worked examples.</p>
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<p>This is the leaderboard for the fall of 2023 Land-Use and Land-Cover competition (complementing the Land-Use and Land-Cover mapping chapter). Submissions are required, but the competition is amicable as rankings will only be considered in the general context of grading. Scoring at the level or better than the base model as demonstrated in the course is however required.</p>
+<section id="available-data" class="level3" data-number="4.0.1">
+<h3 data-number="4.0.1" class="anchored" data-anchor-id="available-data"><span class="header-section-number">4.0.1</span> Available data</h3>
+<p>Training data is generated through a random subset of 200 pixels for each class in the <span class="citation" data-cites="fritz_global_2017">Fritz et al. (<a href="references.html#ref-fritz_global_2017" role="doc-biblioref">2017</a>)</span> land-use and land-cover validation dataset, restricted to locations with &gt;80% coverage (per land cover type), located on the northern hemisphere (following the chapter’s example). Locations for the training data are provided in a separate file. The equivalent test data for this competition consists of 100 unlabelled locations providing the same spectral information as provided in the training data.</p>
 </section>
-<section id="learning-objectives" class="level2">
-<h2 class="anchored" data-anchor-id="learning-objectives">Learning objectives</h2>
-<ul>
-<li>Implement a data science workflow for common domain-specific machine learning-based modelling tasks.</li>
-<li>Analyse and visualise models and their predictions and communicate insights.</li>
-<li>Describe the challenges of model fitting and evaluate model generalisability.</li>
-<li>Adopt and benefit from Open Science practices and resources for data-intensive research projects.</li>
-</ul>
-</section>
-<section id="course-contents" class="level2">
-<h2 class="anchored" data-anchor-id="course-contents">Course contents</h2>
-<p>After a recap of Applied Geodata Science basics, a set of common applications of machine learning methods in Geography and Environmental Science are introduced. Applications cover a wide diversity of data science methods and serve to demonstrate fundamental concepts and implementations, including mechanistic modelling, unsupervised classification, and supervised machine learning. The course combines a theoretical and a hands-on component and consists of a mixture of lectures, exercises, and a (small) self-guided project.</p>
-<p>See <a href="@sec-plan">Course Plan</a> for a complete overview and contextualisation of the different applications.</p>
-</section>
-<section id="exam-modalities" class="level2">
-<h2 class="anchored" data-anchor-id="exam-modalities">Exam modalities</h2>
-<p>Students hand in the report of the self-guided project, building on completed exercises, and submitted in the form of a reproducible workflow (code repository). See <a href="@sec-logistics">Logistics</a> for more information.</p>
-</section>
-<section id="target-audience-and-prerequisites" class="level2">
-<h2 class="anchored" data-anchor-id="target-audience-and-prerequisites">Target audience and prerequisites</h2>
-<p>Master students in <em>Geography</em> and in <em>Climate Sciences</em> at the University of Bern.</p>
-<p>Students are expected to master contents taught in <em>480094 Applied Geodata Science I</em>. If AGDS I has not been attended, it is expected that equivalent knowledge has been gained from comparable courses in other study programs, or that contents of the <a href="https://geco-bern.github.io/agds/"><em>Applied Geodata Science book</em></a> are independently studied until October 12, 2023 (before the fourth session in fall semester 2023).</p>
-<p>This course is a product of the group for <a href="https://geco-group.org/">Geocomputation and Earth Observation</a>, Institute of Geography with contributions by Dr.&nbsp;Koen Hufkens and Pascal Schneider.</p>
-<p><img src="./images/logo_unibern_squid3.png" class="img-fluid" style="width:30.0%"> <img src="./images/geco_logo_fullname.png" class="img-fluid" style="width:30.0%"></p>
+<section id="leaderboard-submission" class="level3" data-number="4.0.2">
+<h3 data-number="4.0.2" class="anchored" data-anchor-id="leaderboard-submission"><span class="header-section-number">4.0.2</span> Leaderboard submission</h3>
+<p>Your model should be able to run on the test dataset, which puts constraints on which additional data you could download. Submit your model results run on the test dataset as a CSV file containing a table of model results (one label on each row, and a header called <code>lulc_class</code>).</p>
+<div class="cell">
+<div class="cell-output-display">
+<table class="table table-sm table-striped small" data-quarto-postprocess="true">
+<thead>
+<tr class="header">
+<th style="text-align: left;" data-quarto-table-cell-role="th">lulc_class</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">1</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">3</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">5</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">...</td>
+</tr>
+</tbody>
+</table>
 
 
+</div>
+</div>
+<p>Leaderboard submissions will be accepted two (2) times during the semester, with a final submission included with your overall report. The CSV file submitted <strong>via pull request</strong> should be named <code>xyz_results.csv</code> (with xyz replaced by your github handle). Submissions via email will not be considered.</p>
 </section>
+<section id="leaderboard" class="level2" data-number="4.1">
+<h2 data-number="4.1" class="anchored" data-anchor-id="leaderboard"><span class="header-section-number">4.1</span> Leaderboard</h2>
+<div class="cell">
+<div class="cell-output-display">
+<table class="table table-striped table-sm small" data-quarto-postprocess="true">
+<caption>The leaderboard ranked according to highest accuracy score. A random dataset is included as a reference, as well as the default model as demonstrated in the Handful of Pixels LULC chapter.</caption>
+<thead>
+<tr class="header">
+<th style="text-align: left;" data-quarto-table-cell-role="th">User</th>
+<th style="text-align: right;" data-quarto-table-cell-role="th">Accuracy</th>
+<th style="text-align: right;" data-quarto-table-cell-role="th">Kappa</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">random</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">1</td>
+</tr>
+</tbody><tfoot>
+<tr class="even">
+<td style="text-align: left; padding: 0;"><span style="font-style: italic;">Note: </span></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; padding: 0;"><sup></sup> This table was automatically generated! Updates after submission can take over 10 minutes.</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+</tr>
+</tfoot>
+
+</table>
+
+
+</div>
+</div>
+
+
+<div id="refs" class="references csl-bib-body hanging-indent" role="list" style="display: none">
+<div id="ref-fritz_global_2017" class="csl-entry" role="listitem">
+Fritz, Steffen, Linda See, Christoph Perger, Ian McCallum, Christian Schill, Dmitry Schepaschenko, Martina Duerauer, et al. 2017. <span>“A Global Dataset of Crowdsourced Land Cover and Land Use Reference Data.”</span> <em>Scientific Data</em> 4 (1): 170075. <a href="https://doi.org/10.1038/sdata.2017.75">https://doi.org/10.1038/sdata.2017.75</a>.
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->
@@ -636,10 +684,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
+      <a href="./reportexercises.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Report exercises</span></span>
+      </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./logistics.html" class="pagination-link">
-        <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Logistics</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./references.html" class="pagination-link">
+        <span class="nav-page-text">References</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

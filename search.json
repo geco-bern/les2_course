@@ -60,7 +60,7 @@
     "href": "plan.html#block-2-phenology-modelling",
     "title": "2  Course plan",
     "section": "Block 2: Phenology modelling",
-    "text": "Block 2: Phenology modelling\nLead: Koen Hufkens\nLink to tutorial.\n[TBC: context]\n\nSession 5 - 19.10.\n\nIntroduction to phenology modelling\nSelf-study of tutorial and exercises\n\n\n\nSession 6 - 26.10.\n\nSelf-study of tutorial and exercises"
+    "text": "Block 2: Phenology modelling\nLead: Koen Hufkens\nIn both Block 2 and 4 I will focus on a set of examples which are rather limited in spatial scope, using just a handfull of pixels. In contrast to what the cloud computing revolution promised, many ideas start out from site or localized studies. The focus of these few chapters from the Handful of Pixels book is deliberate. I will show you through both examples in vegetation seasonality (phenology) and land-use and land-cover mapping (Block 4) that you can experiment with geo-spatial data on limited compute infrastructure. Furthermore, it also shows you that true science can be done with relatively modest means. You will learn to do big science with small data.\n\nSession 5 - 19.10.\n\nIntroduction to phenology modelling\nSelf-study of tutorial and exercises\n\n\n\nSession 6 - 26.10.\n\nSelf-study of tutorial and exercises"
   },
   {
     "objectID": "plan.html#block-3-digital-soil-mapping",
@@ -74,7 +74,7 @@
     "href": "plan.html#block-4-land-cover-classification",
     "title": "2  Course plan",
     "section": "Block 4: Land cover classification",
-    "text": "Block 4: Land cover classification\nLead: Koen Hufkens\nLink to tutorial\n[TBC: context]\n\nSession 9 - 16.11.\n\nIntroduction to land cover classification\nSelf-study of tutorial and exercises\n\n\n\nSession 10 - 23.11.\n\nSelf-study of tutorial and exercises"
+    "text": "Block 4: Land cover classification\nLead: Koen Hufkens\nIn this section I introduce Land-Use and Land-Cover mapping. It shows how to train a Land-Use and Land-Cover machine learning algorithm and scale these results to a larger region. The exercises include an amicable competitive component, where a better model needs to be created and results submitted to a leaderboard (see Chapter 4 for details).\n\nSession 9 - 16.11.\n\nIntroduction to land cover classification\nSelf-study of tutorial and exercises\n\n\n\nSession 10 - 23.11.\n\nSelf-study of tutorial and exercises"
   },
   {
     "objectID": "plan.html#report-exercise-1-spatial-upscaling",
@@ -103,5 +103,19 @@
     "title": "3  Report exercises",
     "section": "3.2 Self-guided project",
     "text": "3.2 Self-guided project\n[TBC]"
+  },
+  {
+    "objectID": "leaderboard_fall_2023.html#leaderboard",
+    "href": "leaderboard_fall_2023.html#leaderboard",
+    "title": "4  Fall 2023",
+    "section": "4.1 Leaderboard",
+    "text": "4.1 Leaderboard\n\n\n\nThe leaderboard ranked according to highest accuracy score. A random dataset is included as a reference, as well as the default model as demonstrated in the Handful of Pixels LULC chapter.\n\n\nUser\nAccuracy\nKappa\n\n\n\n\nrandom\n1\n1\n\n\n\nNote: \n\n\n\n\n This table was automatically generated! Updates after submission can take over 10 minutes.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFritz, Steffen, Linda See, Christoph Perger, Ian McCallum, Christian Schill, Dmitry Schepaschenko, Martina Duerauer, et al. 2017. “A Global Dataset of Crowdsourced Land Cover and Land Use Reference Data.” Scientific Data 4 (1): 170075. https://doi.org/10.1038/sdata.2017.75."
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Fritz, Steffen, Linda See, Christoph Perger, Ian McCallum, Christian\nSchill, Dmitry Schepaschenko, Martina Duerauer, et al. 2017. “A\nGlobal Dataset of Crowdsourced Land Cover and Land Use Reference\nData.” Scientific Data 4 (1): 170075. https://doi.org/10.1038/sdata.2017.75."
   }
 ]
