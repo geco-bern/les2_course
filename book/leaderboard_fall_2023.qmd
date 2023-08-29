@@ -4,7 +4,7 @@ This is the leaderboard for the fall of 2023 Land-Use and Land-Cover competition
 
 ### Available data
 
-Training data is generated through a random subset of 200 pixels for each class in the @fritz_global_2017 land-use and land-cover validation dataset, restricted to locations with >80% coverage (per land cover type), located on the northern hemisphere (following the chapter's example). Locations for the training data are provided in a separate file. The equivalent test data for this competition consists of 100 unlabelled locations providing the same spectral information as provided in the training data.
+Training data is generated through a random subset of 200 pixels for each class in the @fritz_global_2017 land-use and land-cover validation dataset (following the chapter's example but with additional data products provided). The equivalent test data for this competition consists of 600 unlabelled locations providing the same spectral information as provided in the training data. Data for the competition can be downloaded from [a dedicated zenodo archive](https://zenodo.org/record/8298491).
 
 ### Leaderboard submission
 
