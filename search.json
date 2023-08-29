@@ -67,7 +67,7 @@
     "href": "plan.html#block-3-digital-soil-mapping",
     "title": "2  Course plan",
     "section": "Block 3: Digital soil mapping",
-    "text": "Block 3: Digital soil mapping\nLink to tutorial\n[TBC: context]\n\nSession 7 - 02.11.\n\nIntroduction to digital soil mapping\nSelf-study of tutorial and exercises\n\n\n\nSession 8 - 09.11.\n\nSelf-study of tutorial and exercises"
+    "text": "Block 3: Digital soil mapping\nLink to tutorial\nCreating soil maps by hand can be tedious and time-consuming and yet they are urgently needed to inform decision-making to prevent soil loss and to ensure the continuation of important soil ecosystem services. This tutorial gives an introductive workflow for using Random Forests to predict soil properties across a study area in Bern. The tutorial demonstrates how advances in data availability (continuous maps of climate, terrain, etc.) can be used to predict soil properties that are usually laborious to obtain (e.g., pH, water logging, etc.). The self-guided continuation of the tutorial includes conducting variable selection, model building, model interpretation, and model testing.\n\nSession 7 - 02.11.\n\nIntroduction to digital soil mapping\nSelf-study of tutorial and exercises\n\n\n\nSession 8 - 09.11.\n\nSelf-study of tutorial and exercises"
   },
   {
     "objectID": "plan.html#block-4-land-cover-classification",
