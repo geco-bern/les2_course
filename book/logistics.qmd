@@ -12,6 +12,23 @@
 - The course is “creditable” (German: anrechenbar) towards the Master studies in Geography and Climate Sciences at University of Bern.
 - This course follows a hybrid class setup: input lectures + flipped classroom + self-guided project
 
+## Grading
+
+- Students hand in reports of the two Report Exercises in the form of a link, sent to Prof. B. Stocker, to a git repository that contains code for two separate, reproducible workflows (RMarkdown, see [here](https://geco-bern.github.io/agds/gettingstarted.html#rmarkdown)) for the two Report Exercises (`vignettes/re1.Rmd` and `vignettes/re2.Rmd`).
+- Each of the two reports will be equally weighted for the final grade.
+- For grading, we consider the following criteria:
+  - **Reproducibility** (25%). Make sure your RMarkdown code is reproducible and generates a html document as intended. You can check this by letting a colleague clone your git repository and run your code on their machine. If it fails, it's not reproducible, and you won't get points for this aspect.
+  - **Workspace organisation and code** (25%). Follow the principles for workspace organisation and coding as described in the AGDS book ([here](https://geco-bern.github.io/agds/gettingstarted.html#wspmgmt) and [here](https://geco-bern.github.io/agds/programmingprimers.html#programming-basics)).
+  - **Presentation** (25%). This considers the appearance of the generated html document, its text and figures. Provide context, create good data visualisations, and discuss your findings.
+  - **Analysis and modelling** (25%). This considers the correctness of analysis and modelling implementations, and the reasonable application of methods.
+- Each student will hand in their own reports. This is not a group work. 
+- Code duplications are not permitted and affected code will be graded with zero points for the respective Report Exercise.
+- Reports cannot be re-submitted after having received the grades. Make sure all is reproducible before you submit.
+
+## Note of caution
+
+The use of large language models (LLMs), such as ChatGPT, for supporting code development should be considered with caution and is not permitted for writing report text. We are aware that LLMs can help solving technical tasks and the right use of LLMs for solving your problem is not discouraged. However, be aware that code produced by LLMs is not tested to be functional and error-free. Therefore, you have to understand what you get and verify and correct code with a view to your problem. Note that LLMs use text from various sources on the internet. Your report text must not contain verbatim copied text from unidentified sources. This would be considered plagiarism.
+
 <!-- This is a book created from markdown and executable code. -->
 
 <!-- See @knuth84 for additional discussion of literate programming. -->
