@@ -9,9 +9,13 @@
 - Lecture notes are available as online tutorials (see @sec-plan). They contain all contents as reproducible code.
 - No recordings are made available. It’s all in the tutorials.
 - Students are expected to master contents taught in *480094 Applied Geodata Science I*.
-- Students work on their own laptops.
 - The number of students is limited to 25.
 - This course follows a hybrid class setup: input lectures, flipped classroom, and individual work on a (partly) self-guided project.
+- You will work on your own laptops, bring them to class. If this poses a limitation to your participation, please me (B.S.) know. 
+- To get you set up, we’ll support you with installing all the necessary software on our laptops. But please do get started with installations and setup before our first session, following this:
+
+> Before Session 1, please install essential software needed for this course is installed and running. We will offer support in class, for those that encounter problems. Essential software is (1) **R and RStudio**, follow [this](https://geco-bern.github.io/agds/gettingstarted.html#installing-r-and-rstudio), (2) **NetCDF**, follow [this](https://geco-bern.github.io/agds/gettingstarted.html#other-libraries-and-applications), (3) **git**, follow [this](https://geco-bern.github.io/agds/gettingstarted.html#git-1). Students who have completed AGDS I will have this installed and are ready to go.
+
 
 ## Course contents and design
 
