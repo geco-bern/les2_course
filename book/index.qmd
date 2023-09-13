@@ -12,18 +12,8 @@ This course consolidates essential methods of the data science workflow, introdu
 
 - Implement a data science workflow for common domain-specific machine learning-based modelling tasks.
 - Analyse and visualise models and their predictions and communicate insights.
-- Describe the challenges of model fitting and evaluate model generalisability.
+- Describe the challenges of model fitting and evaluate model generalisability in the context of the prediction task.
 - Adopt and benefit from Open Science practices and resources for data-intensive research projects.
-
-## Course contents
-
-After a recap of Applied Geodata Science basics, a set of common applications of machine learning methods in Geography and Environmental Science are introduced. Applications cover a wide diversity of data science methods and serve to demonstrate fundamental concepts and implementations, including mechanistic modelling, unsupervised classification, and supervised machine learning. The course combines a theoretical and a hands-on component and consists of a mixture of lectures, exercises, and a (small) self-guided project.
-
-See [Course Plan](@sec-plan) for a complete overview and contextualisation of the different applications.
-
-## Exam modalities
-
-Students hand in the report of the self-guided projects, submitted in the form of a reproducible workflow (code repository). See [Logistics](@sec-logistics) for more information.
 
 ## Target audience and prerequisites
 
@@ -31,6 +21,8 @@ Master students in *Geography* and in *Climate Sciences* at the University of Be
 
 Students are expected to master contents taught in *480094 Applied Geodata Science I*. If AGDS I has not been attended, it is expected that equivalent knowledge has been gained from comparable courses in other study programs, or that contents of the [*Applied Geodata Science book*](https://geco-bern.github.io/agds/) are independently studied until October 12, 2023 (before the fourth session in fall semester 2023).
 
-This course is a product of the group for [Geocomputation and Earth Observation](https://geco-group.org/), Institute of Geography, led by Prof. Benjamin Stocker, with contributions by Dr. Koen Hufkens and Pascal Schneider.
+-------
+
+The lead for this course is by by Prof. [Benjamin Stocker](https://geco-group.org/author/benjamin-stocker/) and co-taught with  [Dr. Koen Hufkens](https://geco-group.org/author/koen-hufkens/). The website is a product of the group for [Geocomputation and Earth Observation](https://geco-group.org/), Institute of Geography, University of Bern. Individual tutorials are co-authored by different contributors.
 
 ![](./images/logo_unibern_squid3.png){width="30%"} ![](./images/geco_logo_fullname.png){width="30%"}

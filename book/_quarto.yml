@@ -8,18 +8,15 @@ execute:
 book:
   title: "Applied Geodata Science II"
   subtitle: "Introducing applications of machine learning in Geography and Environmental Sciences"
-  author: "Benjamin Stocker"
+  author: "Benjamin Stocker and Koen Hufkens"
   date: "17 August 2023"
   page-navigation: true
   chapters:
     - index.qmd
     - logistics.qmd
     - plan.qmd
-    - reportexercises.qmd
-    - part: "Leaderboard"
-      chapters:
-      - leaderboard_fall_2023.qmd
     - references.qmd
+    - leaderboard_fall_2023.qmd
   favicon: "figures/favicon.ico"
   twitter-card: true
   search: true

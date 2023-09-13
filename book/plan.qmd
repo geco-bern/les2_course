@@ -4,7 +4,7 @@ For fall semester 2023.
 
 ## Block 1: Introduction to Applied Geodata Science methods {.unnumbered}
 
-This first block serves to recap essential machine learning methods that will be applied in the tutorials of subsequent blocks, and to recap methods for implementing a reproducible data science workflow in the form that will be required for the submission of the self-guided project report.
+This first block serves to recap essential machine learning methods that will be applied in the tutorials of subsequent blocks, and to recap methods for implementing a reproducible data science workflow - required for the submission of the self-guided project report.
 
 Contents are covered in the [Applied Geodata Science book](https://geco-bern.github.io/agds/).
 
@@ -28,11 +28,13 @@ Contents are covered in the [Applied Geodata Science book](https://geco-bern.git
 ### Session 4 - 12.10. {.unnumbered}
 
 - [Random Forest](https://geco-bern.github.io/agds/randomforest.html)
-- Interpretable machine learning
+- [Interpretable machine learning](https://geco-bern.github.io/agds/interpretableml.html)
 
 ## Block 2: Phenology modelling {.unnumbered}
 
 *Lead: Koen Hufkens*
+
+[Link to tutorial](https://geco-bern.github.io/handfull_of_pixels/phenology_modelling.html)
 
 In both Block 2 and 4 I will focus on a set of examples which are rather limited in spatial scope, using just a handfull of pixels. In contrast to what the cloud computing revolution promised, many ideas start out from site or localized studies. The focus of these few chapters from the [Handful of Pixels](https://geco-bern.github.io/handfull_of_pixels/phenology_modelling.html) book is deliberate. I will show you through both examples in vegetation seasonality (phenology) and land-use and land-cover mapping (Block 4) that you can experiment with geo-spatial data on limited compute infrastructure. Furthermore, it also shows you that true science can be done with relatively modest means. You will learn to do big science with small data.
 
@@ -47,9 +49,11 @@ In both Block 2 and 4 I will focus on a set of examples which are rather limited
 
 ## Block 3: Digital soil mapping {.unnumbered}
 
+*Lead: Benjamin Stocker*
+
 [Link to tutorial](https://geco-bern.github.io/tutorial_digital_soil_mapping/)
 
-Creating soil maps by hand can be tedious and time-consuming and yet they are urgently needed to inform decision-making to prevent soil loss and to ensure the continuation of important soil ecosystem services. This tutorial gives an introductive workflow for using Random Forests to predict soil properties across a study area in Bern. The tutorial demonstrates how advances in data availability (continuous maps of climate, terrain, etc.) can be used to predict soil properties that are usually laborious to obtain (e.g., pH, water logging, etc.). The self-guided continuation of the tutorial includes conducting variable selection, model building, model interpretation, and model testing.
+Creating soil maps by hand can be tedious and time-consuming and yet they are urgently needed to inform decision-making to prevent soil degradation and to ensure the continuation of important soil-related ecosystem services. This block introduces a workflow for digital soil mapping for using Random Forest models, predicting soil properties across a study area near Bern. The tutorial demonstrates how advances in data availability (continuous maps of climate, terrain, etc.) can be used to predict soil properties that are laborious to obtain from a limited set of soil cores (e.g., pH, water logging, etc.) and for which mapping commonly relied on spatial upscaling "by hand". The self-guided continuation of the tutorial includes conducting variable selection, model formulation, training, evaluation, and interpretation.
 
 ### Session 7 - 02.11. {.unnumbered}
 
@@ -64,7 +68,9 @@ Creating soil maps by hand can be tedious and time-consuming and yet they are ur
 
 *Lead: Koen Hufkens*
 
-In this section I introduce [Land-Use and Land-Cover mapping](https://geco-bern.github.io/handfull_of_pixels/land_cover_classification.html). It shows how to train a Land-Use and Land-Cover machine learning algorithm and scale these results to a larger region. The exercises include an amicable competitive component, where a better model needs to be created and results submitted to a leaderboard (see @sec-leaderboard for details).
+[Link to tutorial](https://geco-bern.github.io/handfull_of_pixels/land_cover_classification.html)
+
+In this block, I introduce [Land-Use and Land-Cover mapping](https://geco-bern.github.io/handfull_of_pixels/land_cover_classification.html). It shows how to train a Land-Use and Land-Cover machine learning algorithm and scale these results to a larger region. The exercises include an amicable competitive component, where a better model needs to be created and results are submitted to a leaderboard (see @sec-leaderboard for details).
 
 ### Session 9 - 16.11. {.unnumbered}
 
@@ -75,29 +81,36 @@ In this section I introduce [Land-Use and Land-Cover mapping](https://geco-bern.
 
 - Self-study of tutorial and exercises
 
-## Report exercise 1: Spatial upscaling {.unnumbered}
+## Block 5: Spatial upscaling {.unnumbered}
 
-See @sec-upscaling
+*Lead: Benjamin Stocker*
+
+The link to tutorial is not yet available.
+
+Creating maps with large spatial, often global coverage based on a limited set of local measurements has become popular. Digital soil mapping led the way by introducing the paradigm that (i) maps can be created based on a model that fits relationships between a locally measured variable of interest and a set of covariates, often environmental variables; and that (ii) global maps of these covariates are available and enable predicting with the fitted model to conditions (locations) for which no local measurements are available. But how reliable are such predictions? And what determines the reliability of predictions to unobserved locations? How can this reliability, the  prediction error, be estimated? 
+
+With digital soil mapping introduced in Block 3, here we probe its fundamental modelling paradigm - spatial upscaling. We learn how we test a (machine learning) model with a view to what it is used for - the prediction task.
+
+This block serves to critically reflect on working with big data and using (black box) models. It does not introduce entirely new methods, but serves to apply methods learned in previous blocks and in AGDS I for exploring and understanding the benefits and limits of (geo) data science methods. Rather than a tutorial, it comes in the form of literature study and working with the data yourself. All students are required to hand in the Report Exercise of this block.
 
 ### Session 11 - 30.11. {.unnumbered}
 
+- Introduction to model generalisability and spatial upscaling
 - Self-study of literature and report exercise
 
 ### Session 12 - 07.12. {.unnumbered}
 
 - Self-study of literature and report exercise
 
-## Report exercise 2: Self-guided project {.unnumbered}
-
-See @sec-project
+## Work on Report Exercises {.unnumbered}
 
 ### Session 13 - 14.12. {.unnumbered}
 
-- Free work on report exercises
+- Free work on Report Exercises
 
 ### Session 14 - 21.12. {.unnumbered}
 
-- Free work on report exercises
+- Free work on Report Exercises
 - Wrap-up
 
 

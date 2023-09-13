@@ -1,9 +1,0 @@
-# Report exercises
-
-## Spatial upscaling {#sec-upscaling}
-
-[TBC]
-
-## Self-guided project {#sec-project}
-
-[TBC]
