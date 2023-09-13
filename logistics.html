@@ -165,31 +165,14 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./reportexercises.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Report exercises</span></span></a>
-  </div>
-</li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
- <span class="menu-text">Leaderboard</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./leaderboard_fall_2023.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Fall 2023</span></span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
   <a href="./references.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">References</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./leaderboard_fall_2023.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Leaderboard</span></span></a>
   </div>
 </li>
     </ul>
@@ -202,8 +185,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#grading" id="toc-grading" class="nav-link active" data-scroll-target="#grading"><span class="header-section-number">1.1</span> Grading</a></li>
-  <li><a href="#note-of-caution" id="toc-note-of-caution" class="nav-link" data-scroll-target="#note-of-caution"><span class="header-section-number">1.2</span> Note of caution</a></li>
+  <li><a href="#general-information" id="toc-general-information" class="nav-link active" data-scroll-target="#general-information"><span class="header-section-number">1.1</span> General information</a></li>
+  <li><a href="#course-contents-and-design" id="toc-course-contents-and-design" class="nav-link" data-scroll-target="#course-contents-and-design"><span class="header-section-number">1.2</span> Course contents and design</a></li>
+  <li><a href="#evaluation" id="toc-evaluation" class="nav-link" data-scroll-target="#evaluation"><span class="header-section-number">1.3</span> Evaluation</a></li>
+  <li><a href="#note-of-caution" id="toc-note-of-caution" class="nav-link" data-scroll-target="#note-of-caution"><span class="header-section-number">1.4</span> Note of caution</a></li>
   </ul>
 </nav>
     </div>
@@ -227,23 +212,31 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<section id="general-information" class="level2" data-number="1.1">
+<h2 data-number="1.1" class="anchored" data-anchor-id="general-information"><span class="header-section-number">1.1</span> General information</h2>
 <ul>
-<li>Lead: Prof.&nbsp;Benjamin Stocker; contributing authors and assistance: Dr.&nbsp;Koen Hufkens, Pascal Schneider; - Geocomputation and Earth Observation, GIUB, UniBe.</li>
+<li>Lead: <a href="https://geco-group.org/author/benjamin-stocker/">Prof.&nbsp;Benjamin Stocker</a>; contributing authors and assistance: <a href="https://geco-group.org/author/koen-hufkens/">Dr.&nbsp;Koen Hufkens</a>, <a href="https://geco-group.org/author/pascal-schneider/">Pascal Schneider</a></li>
 <li>Course language is English.</li>
 <li>Thursday 8.15-10.00 is our presence time, use it for your communication with us.</li>
 <li>No email communications.</li>
-<li>Lecture notes are available as online book at https://geco-bern.github.io/agds/ and in tutorials (see <a href="plan.html"><span>Chapter&nbsp;2</span></a>). They contain all contents, as reproducible code, with exercises and solutions for self-study.</li>
-<li>No recordings are made available. It’s all in the book and tutorials.</li>
+<li>Lecture notes are available as online tutorials (see <a href="plan.html"><span>Chapter&nbsp;2</span></a>). They contain all contents as reproducible code.</li>
+<li>No recordings are made available. It’s all in the tutorials.</li>
 <li>Students are expected to master contents taught in <em>480094 Applied Geodata Science I</em>.</li>
 <li>Students work on their own laptops.</li>
 <li>The number of students is limited to 25.</li>
-<li>The course is “creditable” (German: anrechenbar) towards the Master studies in Geography and Climate Sciences at University of Bern.</li>
-<li>This course follows a hybrid class setup: input lectures + flipped classroom + self-guided project</li>
+<li>This course follows a hybrid class setup: input lectures, flipped classroom, and individual work on a (partly) self-guided project.</li>
 </ul>
-<section id="grading" class="level2" data-number="1.1">
-<h2 data-number="1.1" class="anchored" data-anchor-id="grading"><span class="header-section-number">1.1</span> Grading</h2>
+</section>
+<section id="course-contents-and-design" class="level2" data-number="1.2">
+<h2 data-number="1.2" class="anchored" data-anchor-id="course-contents-and-design"><span class="header-section-number">1.2</span> Course contents and design</h2>
+<p>After a recap of Applied Geodata Science basics, a set of common applications of machine learning methods in Geography and Environmental Science are introduced. Applications cover a diverse set of data science methods and serve to demonstrate fundamental concepts and implementations, including mechanistic modelling, unsupervised classification, and supervised machine learning. The course combines a theoretical and a hands-on component and consists of a mixture of lectures, exercises, and two (small) self-guided project (‘Report Exercises’).</p>
+<p>See <a href="@sec-plan">Course Plan</a> for a complete overview and contextualisation of the different applications, covered by separate course blocks.</p>
+</section>
+<section id="evaluation" class="level2" data-number="1.3">
+<h2 data-number="1.3" class="anchored" data-anchor-id="evaluation"><span class="header-section-number">1.3</span> Evaluation</h2>
 <ul>
-<li>Students hand in reports of the two Report Exercises in the form of a link, sent to Prof.&nbsp;B. Stocker, to a git repository that contains code for two separate, reproducible workflows (RMarkdown, see <a href="https://geco-bern.github.io/agds/gettingstarted.html#rmarkdown">here</a>) for the two Report Exercises (<code>vignettes/re1.Rmd</code> and <code>vignettes/re2.Rmd</code>).</li>
+<li>Students hand in reports of the two Report Exercises in the form of a link, sent to Prof.&nbsp;B. Stocker, to a <em>git</em> repository that contains code for two separate, reproducible workflows (RMarkdown, see <a href="https://geco-bern.github.io/agds/gettingstarted.html#rmarkdown">here</a>) for the two Report Exercises (<code>vignettes/re1.Rmd</code> and <code>vignettes/re2.Rmd</code>).</li>
+<li>One report exercise builds on one of the tutorials of Blocks 2-4 (see <a href="plan.html"><span>Chapter&nbsp;2</span></a>). The second report exercise builds on Block 5 (Spatial upscaling).</li>
 <li>Each of the two reports will be equally weighted for the final grade.</li>
 <li>For grading, we consider the following criteria:
 <ul>
@@ -252,13 +245,13 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Presentation</strong> (25%). This considers the appearance of the generated html document, its text and figures. Provide context, create good data visualisations, and discuss your findings.</li>
 <li><strong>Analysis and modelling</strong> (25%). This considers the correctness of analysis and modelling implementations, and the reasonable application of methods.</li>
 </ul></li>
-<li>Each student will hand in their own reports. This is not a group work.</li>
-<li>Code duplications are not permitted and affected code will be graded with zero points for the respective Report Exercise.</li>
+<li>Each student will hand in their own Report Exercises This is not a group work.</li>
+<li>Code duplications are not permitted and duplicated code will be graded with zero points for the respective Report Exercise.</li>
 <li>Reports cannot be re-submitted after having received the grades. Make sure all is reproducible before you submit.</li>
 </ul>
 </section>
-<section id="note-of-caution" class="level2" data-number="1.2">
-<h2 data-number="1.2" class="anchored" data-anchor-id="note-of-caution"><span class="header-section-number">1.2</span> Note of caution</h2>
+<section id="note-of-caution" class="level2" data-number="1.4">
+<h2 data-number="1.4" class="anchored" data-anchor-id="note-of-caution"><span class="header-section-number">1.4</span> Note of caution</h2>
 <p>The use of large language models (LLMs), such as ChatGPT, for supporting code development should be considered with caution and is not permitted for writing report text. We are aware that LLMs can help solving technical tasks and the right use of LLMs for solving your problem is not discouraged. However, be aware that code produced by LLMs is not tested to be functional and error-free. Therefore, you have to understand what you get and verify and correct code with a view to your problem. Note that LLMs use text from various sources on the internet. Your report text must not contain verbatim copied text from unidentified sources. This would be considered plagiarism.</p>
 
 <!-- This is a book created from markdown and executable code. -->
