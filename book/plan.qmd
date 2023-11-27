@@ -85,7 +85,7 @@ In this block, I introduce [Land-Use and Land-Cover mapping](https://geco-bern.g
 
 *Lead: Benjamin Stocker*
 
-The link to tutorial is not yet available.
+[Link to tutorial](https://geco-bern.github.io/spatial_upscaling/)
 
 Creating maps with large spatial, often global coverage based on a limited set of local measurements has become popular. Digital soil mapping led the way by introducing the paradigm that (i) maps can be created based on a model that fits relationships between a locally measured variable of interest and a set of covariates, often environmental variables; and that (ii) global maps of these covariates are available and enable predicting with the fitted model to conditions (locations) for which no local measurements are available. But how reliable are such predictions? And what determines the reliability of predictions to unobserved locations? How can this reliability, the  prediction error, be estimated? 
 
