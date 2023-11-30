@@ -126,6 +126,7 @@ if(!is.null(lb)) {
   # plot the matrix as a leaderboard table
   kbl(
     lb,
+    row.names = FALSE,
     caption = "The leaderboard ranked according to highest accuracy score. A random dataset is included as a reference, as well as the default model as demonstrated in the Handful of Pixels LULC chapter."
   ) |>
     kable_styling(
