@@ -121,8 +121,8 @@ lb <- do.call("rbind", lb)
 ```{r echo=FALSE, message = FALSE, warning = FALSE, error = FALSE}
 if(!is.null(lb)) {
   # order rows from high to low
-  lb <- lb[order(lb$Accuracy, decreasing = TRUE),]
-  
+  lb <- lb |> dplyr::arrange(dplyr::desc(Accuracy))
+
   # plot the matrix as a leaderboard table
   kbl(
     lb,
