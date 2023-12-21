@@ -36,6 +36,7 @@ See [Course Plan](@sec-plan) for a complete overview and contextualisation of th
 - Each student will hand in their own Report Exercises This is not a group work. 
 - Code duplications are not permitted and duplicated code will be graded with zero points for the respective Report Exercise.
 - Reports cannot be re-submitted after having received the grades. Make sure all is reproducible before you submit.
+- **Deadline for sending us the link by email: 08.01.2024 (course in fall semester 2023).**
 
 ## Note of caution
 

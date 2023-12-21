@@ -100,6 +100,7 @@ This block serves to critically reflect on working with big data and using (blac
 
 ### Session 12 - 07.12. {.unnumbered}
 
+- Paper discussion of Ludwig et al. (2023)
 - Self-study of literature and report exercise
 
 ## Work on Report Exercises {.unnumbered}
