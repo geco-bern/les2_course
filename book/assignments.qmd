@@ -1,6 +1,45 @@
 # Assignments {#sec-assignments}
 
-## CO~2~ fertilisation
+Partner work allowed: yes, maximum groups of three-four (depending on the topic).
 
-[Link](https://docs.google.com/document/d/1UsJXG5S-YJ4tsT5BiJTKIoJr0cVnzVE0tjT8iYrcERU/edit?usp=sharing)
+Create a text document of 3-5 pages (A4, 11 pt) that answers the content points of your chosen assignment, see links below. You may structure the document along the given questions or as you like. Make sure that references in your text are correctly cited and that each statement is referenced. Ideally, your responses are complemented by a figure from original sources for each point. The document may be handed in as a Word, [RMarkdown](https://geco-bern.github.io/agds/gettingstarted.html#rmarkdown), or [Quarto](https://quarto.org/) document that can be added to the repository of the LES textbook (https://geco-bern.github.io/les/).
 
+Present this work in a presentation of 30 min.
+
+## Land use change
+
+- Maximum students: 4
+- Supervision: Benjamin Stocker
+- [Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_assignment_landusechange.pdf)
+
+## Nitrogen Cycle and Interactions with the Carbon Cycle
+
+- Maximum students: 3
+- Supervision: Fabrice Lacroix
+- [Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_assignment_nitrogencycle.pdf)
+
+## Terrestrial Greenhouse-Gases
+
+- Maximum students: 3
+- Supervision: Benjamin Stocker
+- [Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_assignment_ghg.pdf)
+
+## Global environmental change
+
+### Land surface greening
+
+- Maximum students: 3
+- Supervision: Laura Marqués
+- [Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_assignment_greening.pdf)
+
+### CO~2~ fertilisation
+
+- Maximum students: 3
+- Supervision: Laura Marqués
+- [Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_assignment_co2fert.pdf)
+
+### Phenology change
+
+- Maximum students: 3
+- Supervision: Laura Marqués
+- Link: TBC
