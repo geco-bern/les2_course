@@ -6,21 +6,20 @@ execute:
   freeze: auto
 
 book:
-  title: "Applied Geodata Science II"
-  subtitle: "Introducing applications of machine learning in Geography and Environmental Sciences"
-  author: "Benjamin Stocker and Koen Hufkens"
-  date: "17 August 2023"
+  title: "Land in the Earth System 2 - Course information"
+  subtitle: "Introducing global patterns, processes, and underlying principles for how climate shapes the terrestrial biosphere and how land feeds back to Earth system dynamics."
+  author: "Benjamin Stocker, Laura Marqués, and Fabrice Lacroix"
+  date: "13 September 2024"
   page-navigation: true
   chapters:
     - index.qmd
     - logistics.qmd
     - plan.qmd
-    - references.qmd
-    - leaderboard_fall_2023.qmd
+    - assignments.qmd
   favicon: "figures/favicon.ico"
   twitter-card: true
   search: true
-  repo-url: https://github.com/geco-bern/agds2_course
+  repo-url: https://github.com/geco-bern/les2_course
   sharing: [twitter, facebook]
   navbar:
     title: " "

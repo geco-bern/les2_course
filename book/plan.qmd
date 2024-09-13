@@ -1,158 +1,21 @@
 # Course plan {#sec-plan}
 
-For fall semester 2023.
+| Date | Present | Contents | Submissions due (+ 1 day relative to ‘Date’) |
+| --- | --- | --- | --- |
+| 16/9/2024 | BS | Course logistics (15 min, BS); Introduction presentation (30 min, BS); Presentation of Assignments, group allocation (45 min, BS) |  |
+| 23/9/2024 | BS | Lecture: Earth system feedbacks (2 x 45 min, BS) |  |
+| 30/9/2024 | BS, LM, FL | Free work |  |
+| 7/10/2024 | BS, LM, FL | Free work | Zero-order draft on assignment text |
+| 14/10/2024 | BS, FL (LM absent) | Free work, feedback on zero-order draft of text by supervisors during session |  |
+| 21/10/2024 | LM, FL (BS absent) | Free work, feedback on zero-order draft of text by supervisor (LM) during session for assignments phenology, greening, and CO~2~ fertilisation | Assignment: N cycle and Interactions with the C cycle |
+| 28/10/2024 | BS, FL | Assignment: N cycle and Interactions with the C cycle (45 min, FL); Fun lecture: C-N interactions in global vegetation models (30 min, BS) | Assignment: Terrestrial GHG emissions |
+| 4/11/2024 | BS, FL | Recap: N cycle and Interactions with the C cycle (15 min, FL); Assignment: Terrestrial GHG emissions (45 min, BS) | Assignment: Land Use Change |
+| 11/11/2024 | BS, FL | Recap: Terrestrial GHG emissions (15 min, BS); Fun lecture: Arctic N cycle changes (30 min, FL); Assignment: Land Use Change (45 min, BS) | Assignment: Phenology change |
+| 18/11/2024 | BS, LM | Recap: Land Use Change (15 min, BS); Fun lecture: Representing land use in global models (30 min, BS); Assignment: Phenology change (45 min, LM) | Assignment: CO~2~ fertilisation |
+| 25/11/2024 | LM, BS | Recap: Phenology change (15 min, LM); Fun lecture: End-of-season phenology (30 min, LM); Assignment: CO~2~ fertilisation (45 min, LM) | Assignment: Greening |
+| 2/12/2024 | LM, BS | Recap: CO~2~ fertilisation (15 min, LM); Fun lecture: Tree growth-forest biomass links (30 min, LM); Assignment: Greening (45 min, LM) |  |
+| 9/12/2024 | FL, LM, BS | Recap: Greening (15 min, LM); Presentation: Ocean C uptake and CO~2~ trajectories (30  + 45 min, FL) |  |
+| 16/12/2024 | FL, LM, BS | Recap: Ocean C uptake and CO~2~ trajectories (15 min, FL); Course recap and questions (all, remaining time) |  |
+
+: {.striped .hover}
 
-## Block 1: Introduction to Applied Geodata Science methods {.unnumbered}
-
-This first block serves to recap essential machine learning methods that will be applied in the tutorials of subsequent blocks, and to recap methods for implementing a reproducible data science workflow - required for the submission of the self-guided project report.
-
-Contents are covered in the [Applied Geodata Science book](https://geco-bern.github.io/agds/).
-
-### Session 1 - 21.09. {.unnumbered}
-
-- [Introduction to Applied Geodata Science](https://geco-bern.github.io/agds/introduction.html#what-is-applied-geodata-science)
-- [The data science workflow and data science basics](https://geco-bern.github.io/agds/introduction.html#the-data-science-workflow)
-- [The concept of modelling](https://geco-bern.github.io/agds/introduction.html#a-new-modelling-paradigm)
-- Applications of machine learning in Geography and Earth system sciences (lecture)
-
-### Session 2 - 28.09. {.unnumbered}
-
-- [RMarkdown](https://geco-bern.github.io/agds/gettingstarted.html#rmarkdown)
-- [Workspace management and reproducible workflows](https://geco-bern.github.io/agds/gettingstarted.html#wspmgmt)
-- [Regression and classification](https://geco-bern.github.io/agds/regressionclassification.html)
-
-### Session 3 - 05.10. {.unnumbered}
-
-- Supervised machine learning (AGDS book [Chapter 9](https://geco-bern.github.io/agds/supervisedmli.html) and [10](https://geco-bern.github.io/agds/supervisedmlii.html))
-
-### Session 4 - 12.10. {.unnumbered}
-
-- [Random Forest](https://geco-bern.github.io/agds/randomforest.html)
-- [Interpretable machine learning](https://geco-bern.github.io/agds/interpretableml.html)
-
-## Block 2: Phenology modelling {.unnumbered}
-
-*Lead: Koen Hufkens*
-
-[Link to tutorial](https://geco-bern.github.io/handfull_of_pixels/phenology_modelling.html)
-
-In both Block 2 and 4 I will focus on a set of examples which are rather limited in spatial scope, using just a handfull of pixels. In contrast to what the cloud computing revolution promised, many ideas start out from site or localized studies. The focus of these few chapters from the [Handful of Pixels](https://geco-bern.github.io/handfull_of_pixels/phenology_modelling.html) book is deliberate. I will show you through both examples in vegetation seasonality (phenology) and land-use and land-cover mapping (Block 4) that you can experiment with geo-spatial data on limited compute infrastructure. Furthermore, it also shows you that true science can be done with relatively modest means. You will learn to do big science with small data.
-
-### Session 5 - 19.10. {.unnumbered}
-
-- Introduction to phenology modelling
-- Self-study of tutorial and exercises
-
-### Session 6 - 26.10. {.unnumbered}
-
-- Self-study of tutorial and exercises
-
-## Block 3: Digital soil mapping {.unnumbered}
-
-*Lead: Benjamin Stocker*
-
-[Link to tutorial](https://geco-bern.github.io/tutorial_digital_soil_mapping/)
-
-Creating soil maps by hand can be tedious and time-consuming and yet they are urgently needed to inform decision-making to prevent soil degradation and to ensure the continuation of important soil-related ecosystem services. This block introduces a workflow for digital soil mapping for using Random Forest models, predicting soil properties across a study area near Bern. The tutorial demonstrates how advances in data availability (continuous maps of climate, terrain, etc.) can be used to predict soil properties that are laborious to obtain from a limited set of soil cores (e.g., pH, water logging, etc.) and for which mapping commonly relied on spatial upscaling "by hand". The self-guided continuation of the tutorial includes conducting variable selection, model formulation, training, evaluation, and interpretation.
-
-### Session 7 - 02.11. {.unnumbered}
-
-- Introduction to digital soil mapping
-- Self-study of tutorial and exercises
-
-### Session 8 - 09.11. {.unnumbered}
-
-- Self-study of tutorial and exercises
-
-## Block 4: Land cover classification {.unnumbered}
-
-*Lead: Koen Hufkens*
-
-[Link to tutorial](https://geco-bern.github.io/handfull_of_pixels/land_cover_classification.html)
-
-In this block, I introduce [Land-Use and Land-Cover mapping](https://geco-bern.github.io/handfull_of_pixels/land_cover_classification.html). It shows how to train a Land-Use and Land-Cover machine learning algorithm and scale these results to a larger region. The exercises include an amicable competitive component, where a better model needs to be created and results are submitted to a leaderboard (see @sec-leaderboard for details).
-
-### Session 9 - 16.11. {.unnumbered}
-
-- Introduction to land cover classification
-- Self-study of tutorial and exercises
-
-### Session 10 - 23.11. {.unnumbered}
-
-- Self-study of tutorial and exercises
-
-## Block 5: Spatial upscaling {.unnumbered}
-
-*Lead: Benjamin Stocker*
-
-[Link to tutorial](https://geco-bern.github.io/spatial_upscaling/)
-
-Creating maps with large spatial, often global coverage based on a limited set of local measurements has become popular. Digital soil mapping led the way by introducing the paradigm that (i) maps can be created based on a model that fits relationships between a locally measured variable of interest and a set of covariates, often environmental variables; and that (ii) global maps of these covariates are available and enable predicting with the fitted model to conditions (locations) for which no local measurements are available. But how reliable are such predictions? And what determines the reliability of predictions to unobserved locations? How can this reliability, the  prediction error, be estimated? 
-
-With digital soil mapping introduced in Block 3, here we probe its fundamental modelling paradigm - spatial upscaling. We learn how we test a (machine learning) model with a view to what it is used for - the prediction task.
-
-This block serves to critically reflect on working with big data and using (black box) models. It does not introduce entirely new methods, but serves to apply methods learned in previous blocks and in AGDS I for exploring and understanding the benefits and limits of (geo) data science methods. Rather than a tutorial, it comes in the form of literature study and working with the data yourself. All students are required to hand in the Report Exercise of this block.
-
-### Session 11 - 30.11. {.unnumbered}
-
-- Introduction to model generalisability and spatial upscaling
-- Self-study of literature and report exercise
-
-### Session 12 - 07.12. {.unnumbered}
-
-- Paper discussion of Ludwig et al. (2023)
-- Self-study of literature and report exercise
-
-## Work on Report Exercises {.unnumbered}
-
-### Session 13 - 14.12. {.unnumbered}
-
-- Free work on Report Exercises
-
-### Session 14 - 21.12. {.unnumbered}
-
-- Free work on Report Exercises
-- Wrap-up
-
-
-<!-- ```{r} -->
-<!-- ``` -->
-
-<!-- ### Basic expressions -->
-
-<!-- An expression is a set of commands that returns a value. -->
-
-<!-- Click `Run Code` to run the following R code. -->
-
-<!-- Execute this simple calculation. -->
-
-<!-- ```{r} -->
-<!-- 50 * 2.2 -->
-<!-- ``` -->
-
-<!-- Show the first rows of a table. -->
-
-<!-- ```{r} -->
-<!-- head(mtcars) -->
-<!-- ``` -->
-
-<!-- ::: {.callout-note} -->
-<!-- ### Exercise -->
-
-<!-- Show the last rows of the `mtcars` table. -->
-
-<!-- ```{r} -->
-<!-- # Add you code here -->
-<!-- ``` -->
-
-<!-- Your result should look like the plot below -->
-<!-- ::: -->
-
-<!-- ::: {.callout-tip collapse="true"} -->
-<!-- ### Expected Result -->
-
-<!-- ```{r} -->
-<!-- #| echo: false -->
-<!-- tail(mtcars) -->
-<!-- ``` -->
-<!-- ::: -->

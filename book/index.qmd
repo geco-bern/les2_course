@@ -6,23 +6,22 @@ title-block-banner: true
 
 ## Course description 
 
-This course consolidates essential methods of the data science workflow, introduced in the course Applied Geodata Science I and the book [Applied Geodata Science](https://geco-bern.github.io/agds/) and demonstrates common applications of machine learning methods in Geography and Environmental Sciences by worked examples.
+This course advances the introduction of fundamental processes governing terrestrial biosphere functioning. Standard and simple demonstration models will be introduced and applied for demonstrating terrestrial carbon cycle functioning and and Earth system dynamics. The course builds on Land in the Earth System 1 and deepens its scope, while covering largely the same thematic ground - from the global carbon cycle, land-climate interactions, ecohydrology, to Earth system dynamics. In addition, scientific methods, data, and research challenges will be discussed.
+
+The course is organised into a mix of lectures, self-study, and student presentations. Lecture notes containing all relevant content will be made available. No podcasts will be recorded.
 
 ## Learning objectives
 
-- Implement a data science workflow for common domain-specific machine learning-based modelling tasks.
-- Analyse and visualise models and their predictions and communicate insights.
-- Describe the challenges of model fitting and evaluate model generalisability in the context of the prediction task.
-- Adopt and benefit from Open Science practices and resources for data-intensive research projects.
+- Identify the controls on water, carbon, and nutrient dynamics across the Earth.
+- Describe Earth system research challenges related to the terrestrial biosphere.
+- Predict responses of terrestrial ecosystem processes environmental change based on conceptual, empirical, and mathematical models.
 
 ## Target audience and prerequisites
 
-Master students in *Geography* and in *Climate Sciences* at the University of Bern. 
-
-Students are expected to master contents taught in *480094 Applied Geodata Science I*. If AGDS I has not been attended, it is expected that equivalent knowledge has been gained from comparable courses in other study programs, or that contents of the [*Applied Geodata Science book*](https://geco-bern.github.io/agds/) are independently studied until October 12, 2023 (before the fourth session in fall semester 2023).
+Master students in Geography and Climate Science. Contents of Land in the Earth System 1 (LES 1) are the basis. Students that did not take LES 1 are expected to learn its contents through self-study prior to the start of LES 2 (https://geco-bern.github.io/les/).
 
 -------
 
-The lead for this course is by by Prof. [Benjamin Stocker](https://geco-group.org/author/benjamin-stocker/) and co-taught with  [Dr. Koen Hufkens](https://geco-group.org/author/koen-hufkens/). The website is a product of the group for [Geocomputation and Earth Observation](https://geco-group.org/), Institute of Geography, University of Bern. Individual tutorials are co-authored by different contributors.
+The lead for this course is by by Prof. [Benjamin Stocker](https://geco-group.org/author/benjamin-stocker/) and co-taught with [Dr. Laura Marqués](https://geco-group.org/author/laura-marques/) and Dr. Fabrice Lacroix. The website is a product of the group for [Geocomputation and Earth Observation](https://geco-group.org/), Institute of Geography, University of Bern. 
 
 ![](./images/logo_unibern_squid3.png){width="30%"} ![](./images/geco_logo_fullname.png){width="30%"}
