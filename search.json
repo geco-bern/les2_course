@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Applied Geodata Science II",
+    "title": "Land in the Earth System 2 - Course information",
     "section": "",
     "text": "About this course",
     "crumbs": [
@@ -13,9 +13,9 @@
   {
     "objectID": "index.html#course-description",
     "href": "index.html#course-description",
-    "title": "Applied Geodata Science II",
+    "title": "Land in the Earth System 2 - Course information",
     "section": "Course description",
-    "text": "Course description\nThis course consolidates essential methods of the data science workflow, introduced in the course Applied Geodata Science I and the book Applied Geodata Science and demonstrates common applications of machine learning methods in Geography and Environmental Sciences by worked examples.",
+    "text": "Course description\nThis course advances the introduction of fundamental processes governing terrestrial biosphere functioning. Standard and simple demonstration models will be introduced and applied for demonstrating terrestrial carbon cycle functioning and and Earth system dynamics. The course builds on Land in the Earth System 1 and deepens its scope, while covering largely the same thematic ground - from the global carbon cycle, land-climate interactions, ecohydrology, to Earth system dynamics. In addition, scientific methods, data, and research challenges will be discussed.\nThe course is organised into a mix of lectures, self-study, and student presentations. Lecture notes containing all relevant content will be made available. No podcasts will be recorded.",
     "crumbs": [
       "Home",
       "About this course"
@@ -24,9 +24,9 @@
   {
     "objectID": "index.html#learning-objectives",
     "href": "index.html#learning-objectives",
-    "title": "Applied Geodata Science II",
+    "title": "Land in the Earth System 2 - Course information",
     "section": "Learning objectives",
-    "text": "Learning objectives\n\nImplement a data science workflow for common domain-specific machine learning-based modelling tasks.\nAnalyse and visualise models and their predictions and communicate insights.\nDescribe the challenges of model fitting and evaluate model generalisability in the context of the prediction task.\nAdopt and benefit from Open Science practices and resources for data-intensive research projects.",
+    "text": "Learning objectives\n\nIdentify the controls on water, carbon, and nutrient dynamics across the Earth.\nDescribe Earth system research challenges related to the terrestrial biosphere.\nPredict responses of terrestrial ecosystem processes environmental change based on conceptual, empirical, and mathematical models.",
     "crumbs": [
       "Home",
       "About this course"
@@ -35,9 +35,9 @@
   {
     "objectID": "index.html#target-audience-and-prerequisites",
     "href": "index.html#target-audience-and-prerequisites",
-    "title": "Applied Geodata Science II",
+    "title": "Land in the Earth System 2 - Course information",
     "section": "Target audience and prerequisites",
-    "text": "Target audience and prerequisites\nMaster students in Geography and in Climate Sciences at the University of Bern.\nStudents are expected to master contents taught in 480094 Applied Geodata Science I. If AGDS I has not been attended, it is expected that equivalent knowledge has been gained from comparable courses in other study programs, or that contents of the Applied Geodata Science book are independently studied until October 12, 2023 (before the fourth session in fall semester 2023).\n\nThe lead for this course is by by Prof. Benjamin Stocker and co-taught with Dr. Koen Hufkens. The website is a product of the group for Geocomputation and Earth Observation, Institute of Geography, University of Bern. Individual tutorials are co-authored by different contributors.",
+    "text": "Target audience and prerequisites\nMaster students in Geography and Climate Science. Contents of Land in the Earth System 1 (LES 1) are the basis. Students that did not take LES 1 are expected to learn its contents through self-study prior to the start of LES 2 (https://geco-bern.github.io/les/).\n\nThe lead for this course is by by Prof. Benjamin Stocker and co-taught with Dr. Laura Marqués and Dr. Fabrice Lacroix. The website is a product of the group for Geocomputation and Earth Observation, Institute of Geography, University of Bern.",
     "crumbs": [
       "Home",
       "About this course"
@@ -48,40 +48,18 @@
     "href": "logistics.html",
     "title": "1  Logistics",
     "section": "",
-    "text": "1.1 General information",
+    "text": "1.1 How the course works",
     "crumbs": [
       "Home",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Logistics</span>"
     ]
   },
   {
-    "objectID": "logistics.html#general-information",
-    "href": "logistics.html#general-information",
+    "objectID": "logistics.html#how-the-course-works",
+    "href": "logistics.html#how-the-course-works",
     "title": "1  Logistics",
     "section": "",
-    "text": "Lead: Prof. Benjamin Stocker; contributing authors and assistance: Dr. Koen Hufkens, Pascal Schneider\nCourse language is English.\nThursday 8.15-10.00 is our presence time, use it for your communication with us.\nNo email communications.\nLecture notes are available as online tutorials (see Chapter 2). They contain all contents as reproducible code.\nNo recordings are made available. It’s all in the tutorials.\nStudents are expected to master contents taught in 480094 Applied Geodata Science I.\nThe number of students is limited to 25.\nThis course follows a hybrid class setup: input lectures, flipped classroom, and individual work on a (partly) self-guided project.\nYou will work on your own laptops, bring them to class. If this poses a limitation to your participation, please me (B.S.) know.\nTo get you set up, we’ll support you with installing all the necessary software on our laptops. But please do get started with installations and setup before our first session, following this:\n\n\nBefore Session 1, please install essential software needed for this course is installed and running. We will offer support in class, for those that encounter problems. Essential software is (1) R and RStudio, follow this, (2) NetCDF, follow this, (3) git, follow this. Students who have completed AGDS I will have this installed and are ready to go.",
-    "crumbs": [
-      "Home",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Logistics</span>"
-    ]
-  },
-  {
-    "objectID": "logistics.html#course-contents-and-design",
-    "href": "logistics.html#course-contents-and-design",
-    "title": "1  Logistics",
-    "section": "1.2 Course contents and design",
-    "text": "1.2 Course contents and design\nAfter a recap of Applied Geodata Science basics, a set of common applications of machine learning methods in Geography and Environmental Science are introduced. Applications cover a diverse set of data science methods and serve to demonstrate fundamental concepts and implementations, including mechanistic modelling, unsupervised classification, and supervised machine learning. The course combines a theoretical and a hands-on component and consists of a mixture of lectures, exercises, and two (small) self-guided project (‘Report Exercises’).\nSee Course Plan for a complete overview and contextualisation of the different applications, covered by separate course blocks.",
-    "crumbs": [
-      "Home",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Logistics</span>"
-    ]
-  },
-  {
-    "objectID": "logistics.html#evaluation",
-    "href": "logistics.html#evaluation",
-    "title": "1  Logistics",
-    "section": "1.3 Evaluation",
-    "text": "1.3 Evaluation\n\nStudents hand in reports of the two Report Exercises in the form of a link, sent to Prof. B. Stocker, to a git repository that contains code for two separate, reproducible workflows (RMarkdown, see here) for the two Report Exercises (vignettes/re1.Rmd and vignettes/re2.Rmd).\nOne report exercise builds on one of the tutorials of Blocks 2-4 (see Chapter 2). The second report exercise builds on Block 5 (Spatial upscaling).\nEach of the two reports will be equally weighted for the final grade.\nFor grading, we consider the following criteria:\n\nReproducibility (25%). Make sure your RMarkdown code is reproducible and generates a html document as intended. You can check this by letting a colleague clone your git repository and run your code on their machine. If it fails, it’s not reproducible, and you won’t get points for this aspect.\nWorkspace organisation and code (25%). Follow the principles for workspace organisation and coding as described in the AGDS book (here and here).\nPresentation (25%). This considers the appearance of the generated html document, its text and figures. Provide context, create good data visualisations, and discuss your findings.\nAnalysis and modelling (25%). This considers the correctness of analysis and modelling implementations, and the reasonable application of methods.\n\nEach student will hand in their own Report Exercises This is not a group work.\nCode duplications are not permitted and duplicated code will be graded with zero points for the respective Report Exercise.\nReports cannot be re-submitted after having received the grades. Make sure all is reproducible before you submit.\nDeadline for sending us the link by email: 08.01.2024 (course in fall semester 2023).",
+    "text": "The course is a mix of lectures by lecturers and contents taught by students.\nAn introduction and overview lecture is given at the start of the semester.\nTwo Chapters (Earth system feedbacks and Ocean CO2 uptake and emission-concentration trajectories) are taught by lecturers in the form of a lecture.\nRemaining chapters are covered by students, guided by six assignments.\n\nEach assignment specifies a set of question that covers the contents of the respective chapter. Each question is supplemented with references to the published literature where answers can be found.\nGroups of 3-4 students (number of students depending on the assignment) collaborate on the literature study, guided by answering the questions.\nThe outcome of each assignment is a text document with correct citations and complemented with visualisations from the literature. Additionally, the contents of this text document are to be presented to the class (30 min.).\n\nThe student presentations are complemented by fun lectures, given by the lecturers on a current research topic related to the assignmnets.\nThe text documents are to be handed in before the respective presentation and are edited by the lecturers. The final edited versions are made available through the Land in the Earth System “textbook-website” as Part II. (Part I covers the contents of the course Land in the Earth System 1.)\nThe contents on the website (Part II) are covered by the written exam. The fun lectures are not covered in the exam.\nThe presentations and the text documents are not graded. But their timely submission and the active engagement of each student in the presentations and in collaboratively creating the text is the prerequisite for writing the exam.\nLead: Prof. Benjamin Stocker; contributing lecturers: Dr. Laura Marqués and Dr. Fabrice Lacroix.\nCourse language is English.\nMonday 14.15-16.00 is our presence time, use it for your communication with us.\nNo email communications.",
     "crumbs": [
       "Home",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Logistics</span>"
@@ -91,8 +69,8 @@
     "objectID": "logistics.html#note-of-caution",
     "href": "logistics.html#note-of-caution",
     "title": "1  Logistics",
-    "section": "1.4 Note of caution",
-    "text": "1.4 Note of caution\nThe use of large language models (LLMs), such as ChatGPT, for supporting code development should be considered with caution and is not permitted for writing report text. We are aware that LLMs can help solving technical tasks and the right use of LLMs for solving your problem is not discouraged. However, be aware that code produced by LLMs is not tested to be functional and error-free. Therefore, you have to understand what you get and verify and correct code with a view to your problem. Note that LLMs use text from various sources on the internet. Your report text must not contain verbatim copied text from unidentified sources. This would be considered plagiarism.",
+    "section": "1.2 Note of caution",
+    "text": "1.2 Note of caution\nThe use of large language models (LLMs), such as ChatGPT, for supporting writing of text should be considered with caution. We are aware that LLMs can help solving technical tasks and the right use of LLMs for solving your problem is not discouraged. However, correct referencing of original sources of each statement in your text is mandatory and is unreliably solved by LLMs. Therefore, you have to understand your own text and verify and correct it before submitting it. Note that LLMs use text from various sources on the internet. Your report text must not contain verbatim copied text from unidentified sources. This would be considered plagiarism.",
     "crumbs": [
       "Home",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Logistics</span>"
@@ -103,120 +81,21 @@
     "href": "plan.html",
     "title": "2  Course plan",
     "section": "",
-    "text": "Block 1: Introduction to Applied Geodata Science methods\nThis first block serves to recap essential machine learning methods that will be applied in the tutorials of subsequent blocks, and to recap methods for implementing a reproducible data science workflow - required for the submission of the self-guided project report.\nContents are covered in the Applied Geodata Science book.",
+    "text": "Date\nPresent\nContents\nSubmissions due (+ 1 day relative to ‘Date’)\n\n\n\n\n16/9/2024\nBS\nCourse logistics (15 min, BS); Introduction presentation (30 min, BS); Presentation of Assignments, group allocation (45 min, BS)\n\n\n\n23/9/2024\nBS\nLecture: Earth system feedbacks (2 x 45 min, BS)\n\n\n\n30/9/2024\nBS, LM, FL\nFree work\n\n\n\n7/10/2024\nBS, LM, FL\nFree work\nZero-order draft on assignment text\n\n\n14/10/2024\nBS, FL (LM absent)\nFree work, feedback on zero-order draft of text by supervisors during session\n\n\n\n21/10/2024\nLM, FL (BS absent)\nFree work, feedback on zero-order draft of text by supervisor (LM) during session for assignments phenology, greening, and CO2 fertilisation\nAssignment: N cycle and Interactions with the C cycle\n\n\n28/10/2024\nBS, FL\nAssignment: N cycle and Interactions with the C cycle (45 min, FL); Fun lecture: C-N interactions in global vegetation models (30 min, BS)\nAssignment: Terrestrial GHG emissions\n\n\n4/11/2024\nBS, FL\nRecap: N cycle and Interactions with the C cycle (15 min, FL); Assignment: Terrestrial GHG emissions (45 min, BS)\nAssignment: Land Use Change\n\n\n11/11/2024\nBS, FL\nRecap: Terrestrial GHG emissions (15 min, BS); Fun lecture: Arctic N cycle changes (30 min, FL); Assignment: Land Use Change (45 min, BS)\nAssignment: Phenology change\n\n\n18/11/2024\nBS, LM\nRecap: Land Use Change (15 min, BS); Fun lecture: Representing land use in global models (30 min, BS); Assignment: Phenology change (45 min, LM)\nAssignment: CO2 fertilisation\n\n\n25/11/2024\nLM, BS\nRecap: Phenology change (15 min, LM); Fun lecture: End-of-season phenology (30 min, LM); Assignment: CO2 fertilisation (45 min, LM)\nAssignment: Greening\n\n\n2/12/2024\nLM, BS\nRecap: CO2 fertilisation (15 min, LM); Fun lecture: Tree growth-forest biomass links (30 min, LM); Assignment: Greening (45 min, LM)\n\n\n\n9/12/2024\nFL, LM, BS\nRecap: Greening (15 min, LM); Presentation: Ocean C uptake and CO2 trajectories (30 + 45 min, FL)\n\n\n\n16/12/2024\nFL, LM, BS\nRecap: Ocean C uptake and CO2 trajectories (15 min, FL); Course recap and questions (all, remaining time)",
     "crumbs": [
       "Home",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course plan</span>"
     ]
   },
   {
-    "objectID": "plan.html#block-1-introduction-to-applied-geodata-science-methods",
-    "href": "plan.html#block-1-introduction-to-applied-geodata-science-methods",
-    "title": "2  Course plan",
+    "objectID": "assignments.html",
+    "href": "assignments.html",
+    "title": "3  Assignments",
     "section": "",
-    "text": "Session 1 - 21.09.\n\nIntroduction to Applied Geodata Science\nThe data science workflow and data science basics\nThe concept of modelling\nApplications of machine learning in Geography and Earth system sciences (lecture)\n\n\n\nSession 2 - 28.09.\n\nRMarkdown\nWorkspace management and reproducible workflows\nRegression and classification\n\n\n\nSession 3 - 05.10.\n\nSupervised machine learning (AGDS book Chapter 9 and 10)\n\n\n\nSession 4 - 12.10.\n\nRandom Forest\nInterpretable machine learning",
+    "text": "3.1 CO2 fertilisation\nLink",
     "crumbs": [
       "Home",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course plan</span>"
-    ]
-  },
-  {
-    "objectID": "plan.html#block-2-phenology-modelling",
-    "href": "plan.html#block-2-phenology-modelling",
-    "title": "2  Course plan",
-    "section": "Block 2: Phenology modelling",
-    "text": "Block 2: Phenology modelling\nLead: Koen Hufkens\nLink to tutorial\nIn both Block 2 and 4 I will focus on a set of examples which are rather limited in spatial scope, using just a handfull of pixels. In contrast to what the cloud computing revolution promised, many ideas start out from site or localized studies. The focus of these few chapters from the Handful of Pixels book is deliberate. I will show you through both examples in vegetation seasonality (phenology) and land-use and land-cover mapping (Block 4) that you can experiment with geo-spatial data on limited compute infrastructure. Furthermore, it also shows you that true science can be done with relatively modest means. You will learn to do big science with small data.\n\nSession 5 - 19.10.\n\nIntroduction to phenology modelling\nSelf-study of tutorial and exercises\n\n\n\nSession 6 - 26.10.\n\nSelf-study of tutorial and exercises",
-    "crumbs": [
-      "Home",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course plan</span>"
-    ]
-  },
-  {
-    "objectID": "plan.html#block-3-digital-soil-mapping",
-    "href": "plan.html#block-3-digital-soil-mapping",
-    "title": "2  Course plan",
-    "section": "Block 3: Digital soil mapping",
-    "text": "Block 3: Digital soil mapping\nLead: Benjamin Stocker\nLink to tutorial\nCreating soil maps by hand can be tedious and time-consuming and yet they are urgently needed to inform decision-making to prevent soil degradation and to ensure the continuation of important soil-related ecosystem services. This block introduces a workflow for digital soil mapping for using Random Forest models, predicting soil properties across a study area near Bern. The tutorial demonstrates how advances in data availability (continuous maps of climate, terrain, etc.) can be used to predict soil properties that are laborious to obtain from a limited set of soil cores (e.g., pH, water logging, etc.) and for which mapping commonly relied on spatial upscaling “by hand”. The self-guided continuation of the tutorial includes conducting variable selection, model formulation, training, evaluation, and interpretation.\n\nSession 7 - 02.11.\n\nIntroduction to digital soil mapping\nSelf-study of tutorial and exercises\n\n\n\nSession 8 - 09.11.\n\nSelf-study of tutorial and exercises",
-    "crumbs": [
-      "Home",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course plan</span>"
-    ]
-  },
-  {
-    "objectID": "plan.html#block-4-land-cover-classification",
-    "href": "plan.html#block-4-land-cover-classification",
-    "title": "2  Course plan",
-    "section": "Block 4: Land cover classification",
-    "text": "Block 4: Land cover classification\nLead: Koen Hufkens\nLink to tutorial\nIn this block, I introduce Land-Use and Land-Cover mapping. It shows how to train a Land-Use and Land-Cover machine learning algorithm and scale these results to a larger region. The exercises include an amicable competitive component, where a better model needs to be created and results are submitted to a leaderboard (see Chapter 3 for details).\n\nSession 9 - 16.11.\n\nIntroduction to land cover classification\nSelf-study of tutorial and exercises\n\n\n\nSession 10 - 23.11.\n\nSelf-study of tutorial and exercises",
-    "crumbs": [
-      "Home",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course plan</span>"
-    ]
-  },
-  {
-    "objectID": "plan.html#block-5-spatial-upscaling",
-    "href": "plan.html#block-5-spatial-upscaling",
-    "title": "2  Course plan",
-    "section": "Block 5: Spatial upscaling",
-    "text": "Block 5: Spatial upscaling\nLead: Benjamin Stocker\nLink to tutorial\nCreating maps with large spatial, often global coverage based on a limited set of local measurements has become popular. Digital soil mapping led the way by introducing the paradigm that (i) maps can be created based on a model that fits relationships between a locally measured variable of interest and a set of covariates, often environmental variables; and that (ii) global maps of these covariates are available and enable predicting with the fitted model to conditions (locations) for which no local measurements are available. But how reliable are such predictions? And what determines the reliability of predictions to unobserved locations? How can this reliability, the prediction error, be estimated?\nWith digital soil mapping introduced in Block 3, here we probe its fundamental modelling paradigm - spatial upscaling. We learn how we test a (machine learning) model with a view to what it is used for - the prediction task.\nThis block serves to critically reflect on working with big data and using (black box) models. It does not introduce entirely new methods, but serves to apply methods learned in previous blocks and in AGDS I for exploring and understanding the benefits and limits of (geo) data science methods. Rather than a tutorial, it comes in the form of literature study and working with the data yourself. All students are required to hand in the Report Exercise of this block.\n\nSession 11 - 30.11.\n\nIntroduction to model generalisability and spatial upscaling\nSelf-study of literature and report exercise\n\n\n\nSession 12 - 07.12.\n\nPaper discussion of Ludwig et al. (2023)\nSelf-study of literature and report exercise",
-    "crumbs": [
-      "Home",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course plan</span>"
-    ]
-  },
-  {
-    "objectID": "plan.html#work-on-report-exercises",
-    "href": "plan.html#work-on-report-exercises",
-    "title": "2  Course plan",
-    "section": "Work on Report Exercises",
-    "text": "Work on Report Exercises\n\nSession 13 - 14.12.\n\nFree work on Report Exercises\n\n\n\nSession 14 - 21.12.\n\nFree work on Report Exercises\nWrap-up",
-    "crumbs": [
-      "Home",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course plan</span>"
-    ]
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Fritz, Steffen, Linda See, Christoph Perger, Ian McCallum, Christian\nSchill, Dmitry Schepaschenko, Martina Duerauer, et al. 2017. “A\nGlobal Dataset of Crowdsourced Land Cover and Land Use Reference\nData.” Scientific Data 4 (1): 170075. https://doi.org/10.1038/sdata.2017.75.",
-    "crumbs": [
-      "Home",
-      "References"
-    ]
-  },
-  {
-    "objectID": "leaderboard_fall_2023.html",
-    "href": "leaderboard_fall_2023.html",
-    "title": "3  Leaderboard",
-    "section": "",
-    "text": "3.1 Fall 2023\nThis is the leaderboard for the fall of 2023 Land-Use and Land-Cover competition (complementing the Land-Use and Land-Cover mapping chapter). Submissions are required, but the competition is amicable as rankings will only be considered in the general context of grading. Scoring at the level or better than the base model as demonstrated in the course is however required.",
-    "crumbs": [
-      "Home",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Leaderboard</span>"
-    ]
-  },
-  {
-    "objectID": "leaderboard_fall_2023.html#fall-2023",
-    "href": "leaderboard_fall_2023.html#fall-2023",
-    "title": "3  Leaderboard",
-    "section": "",
-    "text": "3.1.1 Available data\nTraining data is generated through a random subset of 200 pixels for each class in the Fritz et al. (2017) land-use and land-cover validation dataset (following the chapter’s example but with additional data products provided). The equivalent test data for this competition consists of 600 unlabelled locations providing the same spectral information as provided in the training data. Data for the competition can be downloaded from a dedicated zenodo archive.\n\n\n3.1.2 Leaderboard submission\nYour model should be able to run on the test dataset, which puts constraints on which additional data you could download. Submit your model results run on the test dataset as a CSV file containing a table of model results (one label on each row, and a header called lulc_class).\n\n\n\n\n\nlulc_class\n\n\n\n\n1\n\n\n3\n\n\n5\n\n\n...\n\n\n\n\n\n\n\nLeaderboard submissions will be accepted two (2) times during the semester, with a final submission included with your overall report. The CSV file submitted via pull request to this repo should be named xyz_results.csv (with xyz replaced by your github handle), and put int the data/leaderboard/fall_2023/ folder. Submissions via email will not be considered.",
-    "crumbs": [
-      "Home",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Leaderboard</span>"
-    ]
-  },
-  {
-    "objectID": "leaderboard_fall_2023.html#leaderboard",
-    "href": "leaderboard_fall_2023.html#leaderboard",
-    "title": "3  Leaderboard",
-    "section": "3.2 Leaderboard",
-    "text": "3.2 Leaderboard\n\n\n\n\nFritz, Steffen, Linda See, Christoph Perger, Ian McCallum, Christian Schill, Dmitry Schepaschenko, Martina Duerauer, et al. 2017. “A Global Dataset of Crowdsourced Land Cover and Land Use Reference Data.” Scientific Data 4 (1): 170075. https://doi.org/10.1038/sdata.2017.75.",
-    "crumbs": [
-      "Home",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Leaderboard</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Assignments</span>"
     ]
   }
 ]
