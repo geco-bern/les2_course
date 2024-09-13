@@ -40,6 +40,6 @@ Present this work in a presentation of 30 min.
 
 ### Phenology change
 
-- Maximum students: 3
+- Maximum students: 4
 - Supervision: Laura Marqués
-- Link: TBC
+- [Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_assignment_phenology.pdf)
