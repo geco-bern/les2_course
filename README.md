@@ -1,3 +1,4 @@
-# R book template
+# Land in the Earth System 2 - Course information
 
-A quarto project template to use for courses and other documentation produced by the GECO group. Based on the BlueGreen Labs template by Koen Hufkens.
+This repository contains a quarto project used for the website of course information for the lecture *Land in the Earth System 2*. This course is a lecture, taught at the University of Bern in the Masters program for *Geography* and for *Climate Sciences* students.
+

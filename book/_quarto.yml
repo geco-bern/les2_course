@@ -14,7 +14,7 @@ book:
   chapters:
     - index.qmd
     - logistics.qmd
-    - plan.qmd
+    - schedule.qmd
     - assignments.qmd
   favicon: "figures/favicon.ico"
   twitter-card: true

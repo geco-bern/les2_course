@@ -6,7 +6,9 @@ title-block-banner: true
 
 ## Course description 
 
-This course advances the introduction of fundamental processes governing terrestrial biosphere functioning. Standard and simple demonstration models will be introduced and applied for demonstrating terrestrial carbon cycle functioning and and Earth system dynamics. The course builds on Land in the Earth System 1 and deepens its scope, while covering largely the same thematic ground - from the global carbon cycle, land-climate interactions, ecohydrology, to Earth system dynamics. In addition, scientific methods, data, and research challenges will be discussed.
+This course is a lecture, taught at the University of Bern in the Masters program for *Geography* and for *Climate Sciences* students.
+
+The course advances the introduction of fundamental processes governing terrestrial biosphere functioning. Standard and simple demonstration models will be introduced and applied for demonstrating terrestrial carbon cycle functioning and and Earth system dynamics. The course builds on Land in the Earth System 1 and deepens its scope, while covering largely the same thematic ground - from the global carbon cycle, land-climate interactions, ecohydrology, to Earth system dynamics. In addition, scientific methods, data, and research challenges will be discussed.
 
 The course is organised into a mix of lectures, self-study, and student presentations. Lecture notes containing all relevant content will be made available. No podcasts will be recorded.
 
