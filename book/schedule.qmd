@@ -2,8 +2,8 @@
 
 | Date | Present | Contents | Submissions due (+ 1 day relative to ‘Date’) |
 | --- | --- | --- | --- |
-| 16.9.2024 | BS | Course logistics (15 min, BS); Introduction presentation (30 min, BS); Presentation of Assignments, group allocation (45 min, BS) |  |
-| 23.9.2024 | BS | **Lecture:** Earth system feedbacks (2 x 45 min, BS) |  |
+| 16.9.2024 | BS | Course logistics (15 min, BS); Introduction presentation (30 min, BS); Presentation of Assignments (10 min, BS) |  |
+| 23.9.2024 | BS, LM, FL | **Lecture:** Earth system feedbacks (60 min., BS); Assignment groups allocation (30 min.) |  |
 | 30.9.2024 | BS, LM, FL | Free work |  |
 | 7.10.2024 | BS, LM, FL | Free work | Zero-order draft on assignment text |
 | 14.10.2024 | BS, FL (LM absent) | Free work, feedback on zero-order draft of text by supervisors during session |  |
