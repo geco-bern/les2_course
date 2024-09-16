@@ -18,6 +18,13 @@
 - Monday 14.15-16.00 is our presence time, use it for your communication with us.
 - No email communications.
 
+```{r echo=FALSE}
+#| label: fig-session-links
+#| fig-cap: "Session links. Assignment on topic *X* is presented in session *N*. The written text document answering assignment *X* is to be handed in one week prior to session *N*. Assignment *X* is revisited in the session one week later, where lecturers fill in gaps, contextualise, edit the submitted written document, and put the document online. Assignments are complemented by *fun lectures*, given by the lecturers on a topic related to assignment X and giving insights about current research on that topic."
+#| out-width: 100%
+knitr::include_graphics("images/session_links.png")
+```
+
 ## Note of caution
 
 The use of large language models (LLMs), such as ChatGPT, for supporting writing of text should be considered with caution. We are aware that LLMs can help solving technical tasks and the right use of LLMs for solving your problem is not discouraged. However, correct referencing of original sources of each statement in your text is mandatory and is unreliably solved by LLMs. Therefore, you have to understand your own text and verify and correct it before submitting it. Note that LLMs use text from various sources on the internet. Your report text must not contain verbatim copied text from unidentified sources. This would be considered plagiarism.
