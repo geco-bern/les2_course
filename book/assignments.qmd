@@ -8,19 +8,19 @@ Present this work in a presentation of 30 min.
 
 ## Land use change
 
-- Maximum students: 4
+- Students: Robbert Kouwehoven, Samuel Müller, Raphael Müller
 - Supervision: Benjamin Stocker
 - [Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_assignment_landusechange.pdf)
 
 ## Nitrogen Cycle and Interactions with the Carbon Cycle
 
-- Maximum students: 3
+- Students: Julian Richter, Martin Sigrist, Livio Conzett
 - Supervision: Fabrice Lacroix
 - [Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_assignment_nitrogencycle.pdf)
 
 ## Terrestrial Greenhouse-Gases
 
-- Maximum students: 3
+- Students: Shiyuan Feng, Ting Tan
 - Supervision: Benjamin Stocker
 - [Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_assignment_ghg.pdf)
 
@@ -28,18 +28,18 @@ Present this work in a presentation of 30 min.
 
 ### Land surface greening
 
-- Maximum students: 3
+- Students: Florence Hammer, Joris Amiet, Meret Weh
 - Supervision: Laura Marqués
 - [Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_assignment_greening.pdf)
 
 ### CO~2~ fertilisation
 
-- Maximum students: 3
+- Students: Nils Tinner, Patricia Gribi, Patricia Helpap
 - Supervision: Laura Marqués
 - [Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_assignment_co2fert.pdf)
 
 ### Phenology change
 
-- Maximum students: 4
+- Students: Lucas Gsponer, Fabio Jakob, Abdelsamed Rasheed
 - Supervision: Laura Marqués
 - [Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_assignment_phenology.pdf)
