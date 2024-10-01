@@ -5,8 +5,8 @@
 | 16.9.2024 | BS | Course logistics (15 min, BS); Introduction presentation (30 min, BS); Presentation of Assignments (10 min, BS) |  |
 | 23.9.2024 | BS, LM, FL | **Lecture:** Earth system feedbacks (60 min., BS); Assignment groups allocation (30 min.) |  |
 | 30.9.2024 | BS, LM, FL | **Lecture:** Earth system feedbacks (continued, 45 min., BS); open Master theses presentation (10 min.); start on assignment work |  |
-| 7.10.2024 | BS, LM, FL | Free work | Zero-order draft on assignment text |
-| 14.10.2024 | BS, FL (LM absent) | Free work, feedback on zero-order draft of text by supervisors during session |  |
+| 7.10.2024 | BS, LM, FL | Free work | |
+| 14.10.2024 | BS, FL (LM absent) | Free work, feedback on zero-order draft of text by supervisors during session | Zero-order draft on assignment text |
 | 21.10.2024 | LM, FL (BS absent) | Free work, feedback on zero-order draft of text by supervisor (LM) during session for assignments phenology, greening, and CO~2~ fertilisation | **Assignment:** N cycle and Interactions with the C cycle |
 | 28.10.2024 | BS, FL | **Assignment:** N cycle and Interactions with the C cycle (45 min, FL); **Fun lecture:** C-N interactions in global vegetation models (30 min, BS) | **Assignment:** Terrestrial GHG emissions |
 | 4.11.2024 | BS, FL | **Recap:** N cycle and Interactions with the C cycle (15 min, FL); **Assignment:** Terrestrial GHG emissions (45 min, BS) | **Assignment:** Land Use Change |
