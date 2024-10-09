@@ -15,7 +15,7 @@
 | 25.11.2024 | LM, BS | **Recap:** Phenology change (15 min, LM); **Fun lecture:** End-of-season phenology (30 min, LM); **Assignment:** CO~2~ fertilisation (45 min, LM) | **Assignment:** Greening |
 | 2.12.2024 | LM, BS | **Recap:** CO~2~ fertilisation (15 min, LM); **Fun lecture:** Tree growth-forest biomass links (30 min, LM); **Assignment:** Greening (45 min, LM) |  |
 | 9.12.2024 | FL, LM, BS | **Recap:** Greening (15 min, LM); **Lecture:** Ocean C uptake and CO~2~ trajectories (30  + 45 min, FL) |  |
-| 16.12.2024 | FL, LM, BS | **Recap:** Ocean C uptake and CO~2~ trajectories (15 min, FL); Course recap and questions (all, remaining time) |  |
+| 16.12.2024 | FL, LM, BS | **Exam** |  |
 
 : {.striped .hover}
 

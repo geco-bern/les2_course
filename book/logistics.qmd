@@ -13,6 +13,7 @@
 - The text documents are to be handed in before the respective presentation and are edited by the lecturers. The final edited versions are made available through the [Land in the Earth System "textbook-website"](https://geco-bern.github.io/les) as Part II. (Part I covers the contents of the course Land in the Earth System 1.)
 - The contents on the website (Part II) are covered by the written exam. The fun lectures are not covered in the exam.
 - The presentations and the text documents are not graded. But their timely submission and the active engagement of each student in the presentations and in collaboratively creating the text is the prerequisite for writing the exam.
+- The exam is in written form, closed book, and takes place in the last session during the semester.
 - Lead: [Prof. Benjamin Stocker](https://geco-group.org/author/benjamin-stocker/); contributing lecturers: [Dr. Laura Marqués](https://geco-group.org/author/laura-marques/) and Dr. Fabrice Lacroix.
 - Course language is English.
 - Monday 14.15-16.00 is our presence time, use it for your communication with us.
