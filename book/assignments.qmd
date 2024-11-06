@@ -12,19 +12,22 @@ Present this work in a presentation of 30 min.
 
 - Students: Robbert Kouwehoven, Samuel Müller, Raphael Müller
 - Supervision: Benjamin Stocker
-- [Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_assignment_landusechange.pdf)
+- [Assignment Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_assignment_landusechange.pdf)
 
 ## Nitrogen Cycle and Interactions with the Carbon Cycle
 
 - Students: Julian Richter, Martin Sigrist, Livio Conzett
 - Supervision: Fabrice Lacroix
-- [Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_assignment_nitrogencycle.pdf)
+- [Assignment Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_assignment_nitrogencycle.pdf)
+- [Chapter Link](https://geco-bern.github.io/les/nutrients.html)
+- [Recap Lecture Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_recap_nitrogencycle.pdf)
 
 ## Terrestrial Greenhouse-Gases
 
 - Students: Shiyuan Feng, Ting Tan, Thomas Rigny
 - Supervision: Benjamin Stocker
-- [Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_assignment_ghg.pdf)
+- [Assignment Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_assignment_ghg.pdf)
+- [Chapter Link](https://geco-bern.github.io/les/ghg.html)
 
 ## Global environmental change
 
@@ -32,16 +35,16 @@ Present this work in a presentation of 30 min.
 
 - Students: Florence Hammer, Joris Amiet, Meret Weh
 - Supervision: Laura Marqués
-- [Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_assignment_greening.pdf)
+- [Assignment Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_assignment_greening.pdf)
 
 ### CO~2~ fertilisation
 
 - Students: Nils Tinner, Patricia Gribi, Patricia Helpap, Michael Weatherford
 - Supervision: Laura Marqués
-- [Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_assignment_co2fert.pdf)
+- [Assignment Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_assignment_co2fert.pdf)
 
 ### Phenology change
 
 - Students: Lucas Gsponer, Fabio Jakob, Abdelsamed Rasheed
 - Supervision: Laura Marqués
-- [Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_assignment_phenology.pdf)
+- [Assignment Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_assignment_phenology.pdf)
