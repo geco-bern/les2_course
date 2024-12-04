@@ -13,6 +13,7 @@ Present this work in a presentation of 30 min.
 - Students: Robbert Kouwehoven, Samuel Müller, Raphael Müller
 - Supervision: Benjamin Stocker
 - [Assignment Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_assignment_landusechange.pdf)
+- [Chapter Link](https://geco-bern.github.io/les/landusechange.html)
 
 ## Nitrogen Cycle and Interactions with the Carbon Cycle
 
@@ -28,6 +29,7 @@ Present this work in a presentation of 30 min.
 - Supervision: Benjamin Stocker
 - [Assignment Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_assignment_ghg.pdf)
 - [Chapter Link](https://geco-bern.github.io/les/ghg.html)
+- [Recap Lecture Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_recap_les2_recap_ghg.pdf)
 
 ## Global environmental change
 
@@ -42,9 +44,13 @@ Present this work in a presentation of 30 min.
 - Students: Nils Tinner, Patricia Gribi, Patricia Helpap, Michael Weatherford
 - Supervision: Laura Marqués
 - [Assignment Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_assignment_co2fert.pdf)
+- [Chapter Link](https://geco-bern.github.io/les/globenvchange.html)
+- [Recap Lecture Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_recap_co2fertilization.pdf)
 
 ### Phenology change
 
 - Students: Lucas Gsponer, Fabio Jakob, Abdelsamed Rasheed
 - Supervision: Laura Marqués
 - [Assignment Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_assignment_phenology.pdf)
+- [Chapter Link](https://geco-bern.github.io/les/globenvchange.html)
+- [Recap Lecture Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_recap_phenology.pdf)
