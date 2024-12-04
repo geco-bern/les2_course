@@ -92,7 +92,7 @@
     "href": "assignments.html",
     "title": "3  Assignments",
     "section": "",
-    "text": "3.1 Land use change",
+    "text": "3.1 Land use change\nPartner work allowed: yes, maximum groups of three-four (depending on the topic).\nCreate a text document of 3-5 pages (A4, 11 pt) that answers the content points of your chosen assignment, see links below. You may structure the document along the given questions or as you like. Make sure that references in your text are correctly cited and that each statement is referenced. Ideally, your responses are complemented by a figure from original sources for each point. The document may be handed in as a Word, RMarkdown, or Quarto document that can be added to the repository of the LES textbook (https://geco-bern.github.io/les/).\nThe text documents are due to be handed in one week prior to the presentation of the respective topic. A “zero-order draft” is to be handed in on 14.10.2024. See Chapter 2. It should contain an outline of the contents that you are planning to cover in the document (e.g., types of visualisations, etc.)\nPresent this work in a presentation of 30 min.",
     "crumbs": [
       "Home",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Assignments</span>"
@@ -103,7 +103,7 @@
     "href": "assignments.html#land-use-change",
     "title": "3  Assignments",
     "section": "",
-    "text": "Students: Robbert Kouwehoven, Samuel Müller, Raphael Müller\nSupervision: Benjamin Stocker\nAssignment Link",
+    "text": "Students: Robbert Kouwehoven, Samuel Müller, Raphael Müller\nSupervision: Benjamin Stocker\nAssignment Link\nChapter Link",
     "crumbs": [
       "Home",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Assignments</span>"
@@ -125,7 +125,7 @@
     "href": "assignments.html#terrestrial-greenhouse-gases",
     "title": "3  Assignments",
     "section": "3.3 Terrestrial Greenhouse-Gases",
-    "text": "3.3 Terrestrial Greenhouse-Gases\n\nStudents: Shiyuan Feng, Ting Tan, Thomas Rigny\nSupervision: Benjamin Stocker\nAssignment Link\nChapter Link",
+    "text": "3.3 Terrestrial Greenhouse-Gases\n\nStudents: Shiyuan Feng, Ting Tan, Thomas Rigny\nSupervision: Benjamin Stocker\nAssignment Link\nChapter Link\nRecap Lecture Link",
     "crumbs": [
       "Home",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Assignments</span>"
@@ -136,7 +136,7 @@
     "href": "assignments.html#global-environmental-change",
     "title": "3  Assignments",
     "section": "3.4 Global environmental change",
-    "text": "3.4 Global environmental change\n\n3.4.1 Land surface greening\n\nStudents: Florence Hammer, Joris Amiet, Meret Weh\nSupervision: Laura Marqués\nAssignment Link\n\n\n\n3.4.2 CO2 fertilisation\n\nStudents: Nils Tinner, Patricia Gribi, Patricia Helpap, Michael Weatherford\nSupervision: Laura Marqués\nAssignment Link\n\n\n\n3.4.3 Phenology change\n\nStudents: Lucas Gsponer, Fabio Jakob, Abdelsamed Rasheed\nSupervision: Laura Marqués\nAssignment Link",
+    "text": "3.4 Global environmental change\n\n3.4.1 Land surface greening\n\nStudents: Florence Hammer, Joris Amiet, Meret Weh\nSupervision: Laura Marqués\nAssignment Link\n\n\n\n3.4.2 CO2 fertilisation\n\nStudents: Nils Tinner, Patricia Gribi, Patricia Helpap, Michael Weatherford\nSupervision: Laura Marqués\nAssignment Link\nChapter Link\nRecap Lecture Link\n\n\n\n3.4.3 Phenology change\n\nStudents: Lucas Gsponer, Fabio Jakob, Abdelsamed Rasheed\nSupervision: Laura Marqués\nAssignment Link\nChapter Link\nRecap Lecture Link",
     "crumbs": [
       "Home",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Assignments</span>"
