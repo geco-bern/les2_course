@@ -38,6 +38,8 @@ Present this work in a presentation of 30 min.
 - Students: Florence Hammer, Joris Amiet, Meret Weh
 - Supervision: Laura Marqués
 - [Assignment Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_assignment_greening.pdf)
+- [Chapter Link](https://geco-bern.github.io/les/globenvchange.html#land-surface-greening)
+- [Recap Lecture Link](https://github.com/geco-bern/les2_course/blob/main/data/les2_recap_greening.pdf)
 
 ### CO~2~ fertilization
 
