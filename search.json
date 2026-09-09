@@ -48,7 +48,7 @@
     "href": "logistics.html",
     "title": "1  Logistics",
     "section": "",
-    "text": "1.1 How the course works\nFigure 1.1: Session links. Assignment on topic X is presented in session N. The written text document answering assignment X is to be handed in one week prior to session N. Assignment X is revisited in the session one week later, where lecturers fill in gaps, contextualise, edit the submitted written document, and put the document online. Assignments are complemented by fun lectures, given by the lecturers on a topic related to assignment X and giving insights about current research on that topic.",
+    "text": "1.1 How the course works",
     "crumbs": [
       "Home",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Logistics</span>"
@@ -59,18 +59,18 @@
     "href": "logistics.html#how-the-course-works",
     "title": "1  Logistics",
     "section": "",
-    "text": "The course is a mix of lectures by lecturers and contents taught by students.\nAn introduction and overview lecture is given at the start of the semester.\nTwo Chapters (Earth system feedbacks and Ocean CO2 uptake and emission-concentration trajectories) are taught by lecturers in the form of a lecture.\nRemaining chapters are covered by students, guided by six assignments.\n\nEach assignment specifies a set of question that covers the contents of the respective chapter. Each question is supplemented with references to the published literature where answers can be found.\nGroups of 3-4 students (number of students depending on the assignment) collaborate on the literature study, guided by answering the questions.\nThe outcome of each assignment is a text document with correct citations and complemented with visualisations from the literature. Additionally, the contents of this text document are to be presented to the class (30 min.).\n\nThe student presentations are complemented by fun lectures, given by the lecturers on a current research topic related to the assignmnets.\nThe text documents are to be handed in before the respective presentation and are edited by the lecturers. The final edited versions are made available through the Land in the Earth System “textbook-website” as Part II. (Part I covers the contents of the course Land in the Earth System 1.)\nThe contents on the website (Part II) are covered by the written exam. The fun lectures are not covered in the exam.\nThe presentations and the text documents are not graded. But their timely submission and the active engagement of each student in the presentations and in collaboratively creating the text is the prerequisite for writing the exam.\nThe exam is in written form, closed book, and takes place in the last session during the semester.\nLead: Prof. Benjamin Stocker; contributing lecturers: Dr. Laura Marqués and Dr. Fabrice Lacroix.\nCourse language is English.\nMonday 14.15-16.00 is our presence time, use it for your communication with us.\nNo email communications.",
+    "text": "Lead: Prof. Benjamin Stocker; contributing lecturers: Dr. Fabian Bernhard and Dr. Fabrice Lacroix.\nCourse language is English.\nMonday 14.15-16.00 is our presence time, use it for your communication with us.\nThe course is mix of lectures and poster presentations by students.\nContents are partly covered by the lecture notes Land in the Earth System, Part II.\nThe contents of the lecture notes are covered by the written exam. From experience, personal presence and an active engagement in the lectures is strongly associated with success in the written exam.\nIn groups of two, students create and present a poster (printed in A1) that describes a published peer-reviewed scientific research article (not a review or opinion article) as if they were the authors of it. Posters should be created following recommendations for scientific posters (see Chapter 3). Articles are proposed by the lecturers or may be suggested by the students. They should cover one of the following themes:\n\nEnvironmental change impacts on terrestrial ecosystems\nNatural emissions of greenhouse gases\nLand use change and Earth system impacts\nReversibility and Earth system tipping points\nLand-based climate mitigation\nMitigation scenarios und short-lived forcing agents (non-CO2 GHGs)\nEarth system feedbacks\n\nThe posters are graded together with the written examp (each 50%).\nThe exam is in written form, closed book, and takes place in the last session during the semester.\nNo email communications.",
     "crumbs": [
       "Home",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Logistics</span>"
     ]
   },
   {
-    "objectID": "logistics.html#note-of-caution",
-    "href": "logistics.html#note-of-caution",
+    "objectID": "logistics.html#use-of-ai",
+    "href": "logistics.html#use-of-ai",
     "title": "1  Logistics",
-    "section": "1.2 Note of caution",
-    "text": "1.2 Note of caution\nThe use of large language models (LLMs), such as ChatGPT, for supporting writing of text should be considered with caution. We are aware that LLMs can help solving technical tasks and the right use of LLMs for solving your problem is not discouraged. However, correct referencing of original sources of each statement in your text is mandatory and is unreliably solved by LLMs. Therefore, you have to understand your own text and verify and correct it before submitting it. Note that LLMs use text from various sources on the internet. Your report text must not contain verbatim copied text from unidentified sources. This would be considered plagiarism.",
+    "section": "1.2 Use of AI",
+    "text": "1.2 Use of AI\nThe use of AI services for text creation should be considered with caution. You are solely responsible for the content of any output that graded as part of this course. Accurate descriptions of scientific methods and results, justified interpretations, and the correct referencing of original sources is mandatory and is often unreliably solved by AI. Full control over outputs by the human author is undespensable. Consider the view of the lecturer on this topic, see here.",
     "crumbs": [
       "Home",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Logistics</span>"
@@ -81,65 +81,32 @@
     "href": "schedule.html",
     "title": "2  Schedule",
     "section": "",
-    "text": "Date\nPresent\nContents\nSubmissions due (+ 1 day relative to ‘Date’)\n\n\n\n\n16.9.2024\nBS\nCourse logistics (15 min, BS); Introduction presentation (30 min, BS); Presentation of Assignments (10 min, BS)\n\n\n\n23.9.2024\nBS, LM, FL\nLecture: Earth system feedbacks (60 min., BS); Assignment groups allocation (30 min.)\n\n\n\n30.9.2024\nBS, LM, FL\nLecture: Earth system feedbacks (continued, 45 min., BS); open Master theses presentation (10 min.); start on assignment work\n\n\n\n7.10.2024\nBS, LM, FL\nFree work\n\n\n\n14.10.2024\nBS, FL (LM absent)\nFree work, feedback on zero-order draft of text by supervisors during session\nZero-order draft on assignment text\n\n\n21.10.2024\nLM, FL (BS absent)\nFree work, feedback on zero-order draft of text by supervisor (LM) during session for assignments phenology, greening, and CO2 fertilisation\nAssignment: N cycle and Interactions with the C cycle\n\n\n28.10.2024\nBS, FL\nAssignment: N cycle and Interactions with the C cycle (45 min, FL); Fun lecture: C-N interactions in global vegetation models (30 min, BS)\nAssignment: Terrestrial GHG emissions\n\n\n4.11.2024\nBS, FL\nRecap: N cycle and Interactions with the C cycle (15 min, FL); Assignment: Terrestrial GHG emissions (45 min, BS)\nAssignment: Land Use Change\n\n\n11.11.2024\nBS, FL\nRecap: Terrestrial GHG emissions (15 min, BS); Fun lecture: Arctic N cycle changes (30 min, FL); Assignment: Land Use Change (45 min, BS)\nAssignment: Phenology change\n\n\n18.11.2024\nBS, LM\nRecap: Land Use Change (15 min, BS); Fun lecture: Representing land use in global models (30 min, BS); Assignment: Phenology change (45 min, LM)\nAssignment: CO2 fertilisation\n\n\n25.11.2024\nLM, BS\nRecap: Phenology change (15 min, LM); Fun lecture: End-of-season phenology (30 min, LM); Assignment: CO2 fertilisation (45 min, LM)\nAssignment: Greening\n\n\n2.12.2024\nLM, BS\nRecap: CO2 fertilisation (15 min, LM); Fun lecture: Tree growth-forest biomass links (30 min, LM); Assignment: Greening (45 min, LM)\n\n\n\n9.12.2024\nFL, LM, BS\nRecap: Greening (15 min, LM); Lecture: Ocean C uptake and CO2 trajectories (30 + 45 min, FL)\n\n\n\n16.12.2024\nFL, LM, BS\nExam",
+    "text": "This is updated for the fall semester of 2026.\n\n\n\n\n\n\n\n\nDate\nLecturer\nContents\n\n\n\n\n14.9.2026\nBS\nCourse logistics; Introduction presentation\n\n\n21.9.2026\nBS\nEarth system feedbacks\n\n\n28.9.2026\nBS\nLand use change\n\n\n12.10.2026\nBS\nNitrogen cycle\n\n\n19.10.2026\nFL\nGreenhouse gases\n\n\n26.10.2026\nFL\nOcean BGC\n\n\n2.11.2026\nBS\nGreening of the Earth\n\n\n9.11.2026\nBS\nCO2 fertilisation\n\n\n16.11.2026\nFB\nDrought impacts\n\n\n23.11.2026\n-\nPreparations\n\n\n30.11.2026\n-\nPoster presentations\n\n\n7.12.2026\n-\nPoster presentations; Exam preparation/recap/questions\n\n\n14.12.2026\n-\nExam",
     "crumbs": [
       "Home",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
     ]
   },
   {
-    "objectID": "assignments.html",
-    "href": "assignments.html",
-    "title": "3  Assignments",
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "3  Resources",
     "section": "",
-    "text": "3.1 Land use change\nPartner work allowed: yes, maximum groups of three-four (depending on the topic).\nCreate a text document of 3-5 pages (A4, 11 pt) that answers the content points of your chosen assignment, see links below. You may structure the document along the given questions or as you like. Make sure that references in your text are correctly cited and that each statement is referenced. Ideally, your responses are complemented by a figure from original sources for each point. The document may be handed in as a Word, RMarkdown, or Quarto document that can be added to the repository of the LES textbook (https://geco-bern.github.io/les/).\nThe text documents are due to be handed in one week prior to the presentation of the respective topic. A “zero-order draft” is to be handed in on 14.10.2024. See Chapter 2. It should contain an outline of the contents that you are planning to cover in the document (e.g., types of visualisations, etc.)\nPresent this work in a presentation of 30 min.",
+    "text": "3.1 Scientific posters",
     "crumbs": [
       "Home",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Assignments</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Resources</span>"
     ]
   },
   {
-    "objectID": "assignments.html#land-use-change",
-    "href": "assignments.html#land-use-change",
-    "title": "3  Assignments",
+    "objectID": "resources.html#scientific-posters",
+    "href": "resources.html#scientific-posters",
+    "title": "3  Resources",
     "section": "",
-    "text": "Students: Robbert Kouwehoven, Samuel Müller, Raphael Müller\nSupervision: Benjamin Stocker\nAssignment Link\nChapter Link",
+    "text": "Useful quick tips for poster visual design by bioRender - a free starting point for a commercial service.\nBlog post by Colin Purrington. This is the ultimate guide to scientific poster design and content definition, with a comprehensive list of dos and don’ts.\nA scientific article describing the zones of highest visual attention on a poster and suggesting an outline of sections that aligns with this",
     "crumbs": [
       "Home",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Assignments</span>"
-    ]
-  },
-  {
-    "objectID": "assignments.html#nitrogen-cycle-and-interactions-with-the-carbon-cycle",
-    "href": "assignments.html#nitrogen-cycle-and-interactions-with-the-carbon-cycle",
-    "title": "3  Assignments",
-    "section": "3.2 Nitrogen Cycle and Interactions with the Carbon Cycle",
-    "text": "3.2 Nitrogen Cycle and Interactions with the Carbon Cycle\n\nStudents: Julian Richter, Martin Sigrist, Livio Conzett\nSupervision: Fabrice Lacroix\nAssignment Link\nChapter Link\nRecap Lecture Link",
-    "crumbs": [
-      "Home",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Assignments</span>"
-    ]
-  },
-  {
-    "objectID": "assignments.html#terrestrial-greenhouse-gases",
-    "href": "assignments.html#terrestrial-greenhouse-gases",
-    "title": "3  Assignments",
-    "section": "3.3 Terrestrial Greenhouse-Gases",
-    "text": "3.3 Terrestrial Greenhouse-Gases\n\nStudents: Shiyuan Feng, Ting Tan, Thomas Rigny\nSupervision: Benjamin Stocker\nAssignment Link\nChapter Link\nRecap Lecture Link",
-    "crumbs": [
-      "Home",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Assignments</span>"
-    ]
-  },
-  {
-    "objectID": "assignments.html#global-environmental-change",
-    "href": "assignments.html#global-environmental-change",
-    "title": "3  Assignments",
-    "section": "3.4 Global environmental change",
-    "text": "3.4 Global environmental change\n\n3.4.1 Land surface greening\n\nStudents: Florence Hammer, Joris Amiet, Meret Weh\nSupervision: Laura Marqués\nAssignment Link\nChapter Link\nRecap Lecture Link\n\n\n\n3.4.2 CO2 fertilization\n\nStudents: Nils Tinner, Patricia Gribi, Patricia Helpap, Michael Weatherford\nSupervision: Laura Marqués\nAssignment Link\nChapter Link\nRecap Lecture Link\n\n\n\n3.4.3 Phenology changes\n\nStudents: Lucas Gsponer, Fabio Jakob, Abdelsamed Rasheed\nSupervision: Laura Marqués\nAssignment Link\nChapter Link\nRecap Lecture Link",
-    "crumbs": [
-      "Home",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Assignments</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Resources</span>"
     ]
   }
 ]
