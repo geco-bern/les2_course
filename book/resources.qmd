@@ -1,0 +1,7 @@
+# Resources {#sec-resources}
+
+## Scientific posters
+
+- [Useful quick tips for poster visual design by bioRender](https://www.biorender.com/blog/top-5-tips-for-designing-a-scientific-poster) - a free starting point for a commercial service. 
+- [Blog post by Colin Purrington](https://colinpurrington.com/tips/poster-design/). This is the ultimate guide to scientific poster design and content definition, with a comprehensive list of dos and don'ts. 
+- [A scientific article](https://doi.org/10.1016/j.clnesp.2024.06.056) describing the zones of highest visual attention on a poster and suggesting an outline of sections that aligns with this

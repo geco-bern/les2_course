@@ -8,14 +8,15 @@ execute:
 book:
   title: "Land in the Earth System 2 - Course information"
   subtitle: "Introducing global patterns, processes, and underlying principles for how climate shapes the terrestrial biosphere and how land feeds back to Earth system dynamics."
-  author: "Benjamin Stocker, Laura Marqués, and Fabrice Lacroix"
-  date: "13 September 2024"
+  author: "Benjamin Stocker, Fabrice Lacroix, and Fabian Bernhard"
+  date: "09 September 2026"
   page-navigation: true
   chapters:
     - index.qmd
     - logistics.qmd
     - schedule.qmd
-    - assignments.qmd
+    - resources.qmd
+    # - assignments.qmd
   favicon: "figures/favicon.ico"
   twitter-card: true
   search: true

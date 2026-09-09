@@ -1,21 +1,22 @@
 # Schedule {#sec-plan}
 
-| Date | Present | Contents | Submissions due (+ 1 day relative to ‘Date’) |
-| --- | --- | --- | --- |
-| 16.9.2024 | BS | Course logistics (15 min, BS); Introduction presentation (30 min, BS); Presentation of Assignments (10 min, BS) |  |
-| 23.9.2024 | BS, LM, FL | **Lecture:** Earth system feedbacks (60 min., BS); Assignment groups allocation (30 min.) |  |
-| 30.9.2024 | BS, LM, FL | **Lecture:** Earth system feedbacks (continued, 45 min., BS); open Master theses presentation (10 min.); start on assignment work |  |
-| 7.10.2024 | BS, LM, FL | Free work | |
-| 14.10.2024 | BS, FL (LM absent) | Free work, feedback on zero-order draft of text by supervisors during session | Zero-order draft on assignment text |
-| 21.10.2024 | LM, FL (BS absent) | Free work, feedback on zero-order draft of text by supervisor (LM) during session for assignments phenology, greening, and CO~2~ fertilisation | **Assignment:** N cycle and Interactions with the C cycle |
-| 28.10.2024 | BS, FL | **Assignment:** N cycle and Interactions with the C cycle (45 min, FL); **Fun lecture:** C-N interactions in global vegetation models (30 min, BS) | **Assignment:** Terrestrial GHG emissions |
-| 4.11.2024 | BS, FL | **Recap:** N cycle and Interactions with the C cycle (15 min, FL); **Assignment:** Terrestrial GHG emissions (45 min, BS) | **Assignment:** Land Use Change |
-| 11.11.2024 | BS, FL | **Recap:** Terrestrial GHG emissions (15 min, BS); **Fun lecture:** Arctic N cycle changes (30 min, FL); **Assignment:** Land Use Change (45 min, BS) | **Assignment:** Phenology change |
-| 18.11.2024 | BS, LM | **Recap:** Land Use Change (15 min, BS); **Fun lecture:** Representing land use in global models (30 min, BS); **Assignment:** Phenology change (45 min, LM) | **Assignment:** CO~2~ fertilisation |
-| 25.11.2024 | LM, BS | **Recap:** Phenology change (15 min, LM); **Fun lecture:** End-of-season phenology (30 min, LM); **Assignment:** CO~2~ fertilisation (45 min, LM) | **Assignment:** Greening |
-| 2.12.2024 | LM, BS | **Recap:** CO~2~ fertilisation (15 min, LM); **Fun lecture:** Tree growth-forest biomass links (30 min, LM); **Assignment:** Greening (45 min, LM) |  |
-| 9.12.2024 | FL, LM, BS | **Recap:** Greening (15 min, LM); **Lecture:** Ocean C uptake and CO~2~ trajectories (30  + 45 min, FL) |  |
-| 16.12.2024 | FL, LM, BS | **Exam** |  |
+This is updated for the fall semester of 2026.
+
+| Date | Lecturer | Contents | 
+| ---        | ---  | --- |
+| 14.9.2026  | BS | Course logistics; Introduction presentation | 
+| 21.9.2026  | BS | Earth system feedbacks |
+| 28.9.2026  | BS | Land use change | 
+| 12.10.2026 | BS | Nitrogen cycle |
+| 19.10.2026 | FL | Greenhouse gases |
+| 26.10.2026 | FL | Ocean BGC  |
+| 2.11.2026  | BS | Greening of the Earth |
+| 9.11.2026  | BS | CO~2~ fertilisation|  |
+| 16.11.2026 | FB | Drought impacts |
+| 23.11.2026 | -  | Preparations  |
+| 30.11.2026 | -  | Poster presentations |
+| 7.12.2026  | -  | Poster presentations; Exam preparation/recap/questions |
+| 14.12.2026 | -  | Exam  | 
 
 : {.striped .hover}
 

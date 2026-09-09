@@ -2,33 +2,27 @@
 
 ## How the course works
 
-- The course is a mix of lectures by lecturers and contents taught by students.
-- An introduction and overview lecture is given at the start of the semester.
-- Two Chapters ([Earth system feedbacks](https://geco-bern.github.io/les/feedbacks.html) and [Ocean CO~2~ uptake and emission-concentration trajectories](https://geco-bern.github.io/les/oceancarbon.html)) are taught by lecturers in the form of a lecture.
-- Remaining chapters are covered by students, guided by six *assignments*. 
-  - Each assignment specifies a set of question that covers the contents of the respective chapter. Each question is supplemented with references to the published literature where answers can be found. 
-  - Groups of 3-4 students (number of students depending on the assignment) collaborate on the literature study, guided by answering the questions. 
-  - The outcome of each assignment is a text document with correct citations and complemented with visualisations from the literature. Additionally, the contents of this text document are to be presented to the class (30 min.).
-- The student presentations are complemented by *fun lectures*, given by the lecturers on a current research topic related to the assignmnets.
-- The text documents are to be handed in before the respective presentation and are edited by the lecturers. The final edited versions are made available through the [Land in the Earth System "textbook-website"](https://geco-bern.github.io/les) as Part II. (Part I covers the contents of the course Land in the Earth System 1.)
-- The contents on the website (Part II) are covered by the written exam. The fun lectures are not covered in the exam.
-- The presentations and the text documents are not graded. But their timely submission and the active engagement of each student in the presentations and in collaboratively creating the text is the prerequisite for writing the exam.
-- The exam is in written form, closed book, and takes place in the last session during the semester.
-- Lead: [Prof. Benjamin Stocker](https://geco-group.org/author/benjamin-stocker/); contributing lecturers: [Dr. Laura Marqués](https://geco-group.org/author/laura-marques/) and Dr. Fabrice Lacroix.
+- Lead: [Prof. Benjamin Stocker](https://geco-group.org/author/benjamin-stocker/); contributing lecturers: [Dr. Fabian Bernhard](https://geco-group.org/author/fabian-bernhard/) and [Dr. Fabrice Lacroix](https://geco-group.org/author/fabrice-lacroix/).
 - Course language is English.
 - Monday 14.15-16.00 is our presence time, use it for your communication with us.
+- The course is mix of lectures and poster presentations by students.
+- Contents are partly covered by the lecture notes [Land in the Earth System, Part II](https://geco-bern.github.io/les/part2.html).
+- The contents of the lecture notes are covered by the written exam. From experience, personal presence and an active engagement in the lectures is strongly associated with success in the written exam.
+- In groups of two, students create and present a poster (printed in A1) that describes a published peer-reviewed scientific research article (not a review or opinion article) as if they were the authors of it. Posters should be created following recommendations for scientific posters (see @sec-resources). Articles are proposed by the lecturers or may be suggested by the students. They should cover one of the following themes:
+  - Environmental change impacts on terrestrial ecosystems
+  - Natural emissions of greenhouse gases
+  - Land use change and Earth system impacts
+  - Reversibility and Earth system tipping points
+  - Land-based climate mitigation
+  - Mitigation scenarios und short-lived forcing agents (non-CO2 GHGs)
+  - Earth system feedbacks
+- The posters are graded together with the written examp (each 50%).
+- The exam is in written form, closed book, and takes place in the last session during the semester.
 - No email communications.
 
-```{r echo=FALSE}
-#| label: fig-session-links
-#| fig-cap: "Session links. Assignment on topic *X* is presented in session *N*. The written text document answering assignment *X* is to be handed in one week prior to session *N*. Assignment *X* is revisited in the session one week later, where lecturers fill in gaps, contextualise, edit the submitted written document, and put the document online. Assignments are complemented by *fun lectures*, given by the lecturers on a topic related to assignment X and giving insights about current research on that topic."
-#| out-width: 100%
-knitr::include_graphics("images/session_links.png")
-```
+## Use of AI
 
-## Note of caution
-
-The use of large language models (LLMs), such as ChatGPT, for supporting writing of text should be considered with caution. We are aware that LLMs can help solving technical tasks and the right use of LLMs for solving your problem is not discouraged. However, correct referencing of original sources of each statement in your text is mandatory and is unreliably solved by LLMs. Therefore, you have to understand your own text and verify and correct it before submitting it. Note that LLMs use text from various sources on the internet. Your report text must not contain verbatim copied text from unidentified sources. This would be considered plagiarism.
+The use of AI services for text creation should be considered with caution. You are solely responsible for the content of any output that graded as part of this course. Accurate descriptions of scientific methods and results, justified interpretations, and the correct referencing of original sources is mandatory and is often unreliably solved by AI. Full control over outputs by the human author is undespensable. Consider the view of the lecturer on this topic, see [here](https://geco-group.org/post/writing_with_ai/).
 
 <!-- This is a book created from markdown and executable code. -->
 
