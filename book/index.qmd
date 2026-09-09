@@ -24,6 +24,6 @@ Master students in Geography and Climate Science. Contents of Land in the Earth 
 
 -------
 
-The lead for this course is by by Prof. [Benjamin Stocker](https://geco-group.org/author/benjamin-stocker/) and co-taught with [Dr. Laura Marqués](https://geco-group.org/author/laura-marques/) and Dr. Fabrice Lacroix. The website is a product of the group for [Geocomputation and Earth Observation](https://geco-group.org/), Institute of Geography, University of Bern. 
+The lead for this course is by by Prof. [Benjamin Stocker](https://geco-group.org/author/benjamin-stocker/) and co-taught with [Dr. Fabian Bernhard](https://geco-group.org/author/fabian-bernhard/) and [Dr. Fabrice Lacroix](https://geco-group.org/author/fabrice-lacroix/). The website is a product of the group for [Geocomputation and Earth Observation](https://geco-group.org/), Institute of Geography, University of Bern. 
 
 ![](./images/logo_unibern_squid3.png){width="30%"} ![](./images/geco_logo_fullname.png){width="30%"}
