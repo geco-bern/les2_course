@@ -16,7 +16,7 @@ book:
     - logistics.qmd
     - schedule.qmd
     - resources.qmd
-    # - assignments.qmd
+    - references.qmd
   favicon: "figures/favicon.ico"
   twitter-card: true
   search: true

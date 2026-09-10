@@ -8,17 +8,10 @@
 - The course is mix of lectures and poster presentations by students.
 - Contents are partly covered by the lecture notes [Land in the Earth System, Part II](https://geco-bern.github.io/les/part2.html).
 - The contents of the lecture notes are covered by the written exam. From experience, personal presence and an active engagement in the lectures is strongly associated with success in the written exam.
-- In groups of two, students create and present a poster (printed in A1) that describes a published peer-reviewed scientific research article (not a review or opinion article) as if they were the authors of it. Posters should be created following recommendations for scientific posters (see @sec-resources). Articles are proposed by the lecturers or may be suggested by the students. They should cover one of the following themes:
-  - Environmental change impacts on terrestrial ecosystems
-  - Natural emissions of greenhouse gases
-  - Land use change and Earth system impacts
-  - Reversibility and Earth system tipping points
-  - Land-based climate mitigation
-  - Mitigation scenarios und short-lived forcing agents (non-CO2 GHGs)
-  - Earth system feedbacks
-- The posters are graded together with the written examp (each 50%).
+- In groups of two, students create and present a poster (printed in A1) that describes a published peer-reviewed scientific research article (not a review or opinion article) as if they were the authors of it. Posters should be created following recommendations for scientific posters (see @sec-posterdesign). 
+- Articles are proposed by the lecturers (see @sec-seminal-papers) or may be suggested by the students.
+- The posters are graded together with the written exam (each 50%).
 - The exam is in written form, closed book, and takes place in the last session during the semester.
-- No email communications.
 
 ## Use of AI
 

@@ -1,7 +1,79 @@
 # Resources {#sec-resources}
 
-## Scientific posters
+## Scientific poster design {#sec-posterdesign}
 
 - [Useful quick tips for poster visual design by bioRender](https://www.biorender.com/blog/top-5-tips-for-designing-a-scientific-poster) - a free starting point for a commercial service. 
 - [Blog post by Colin Purrington](https://colinpurrington.com/tips/poster-design/). This is the ultimate guide to scientific poster design and content definition, with a comprehensive list of dos and don'ts. 
 - [A scientific article](https://doi.org/10.1016/j.clnesp.2024.06.056) describing the zones of highest visual attention on a poster and suggesting an outline of sections that aligns with this
+
+## Seminal papers {#sec-seminal-papers}
+
+The following is a list of seminal papers in the fields relevant to this course, spanning disciplines from terrestrial ecology, land-climate interactions, carbon cycle science, to ecosystem science. Most of them are included as references in the [LES Book](https://geco-bern.github.io/les/).
+
+### Models and Earth-system feedbacks
+
+| In LES Book | Paper |
+|---|---|
+| Yes | [@sitch2003lpj], [“Evaluation of ecosystem dynamics, plant geography and terrestrial carbon cycling in the LPJ dynamic global vegetation model”](https://doi.org/10.1046/j.1365-2486.2003.00569.x) |
+| Yes | [@friedlingstein2006c4mip], [“Climate--Carbon Cycle Feedback Analysis: Results from the C4MIP Model Intercomparison”](https://doi.org/10.1175/JCLI3800.1) |
+| Yes | [@arneth2010feedbacks], [“Terrestrial biogeochemical feedbacks in the climate system”](https://doi.org/10.1038/ngeo905) |
+| Yes | [@stocker2013multighg], [“Multiple greenhouse-gas feedbacks from the land biosphere under future climate change scenarios”](https://doi.org/10.1038/nclimate1864) |
+|  | [@jones2016negative], [“Simulating the Earth system response to negative emissions”](https://doi.org/10.1088/1748-9326/11/9/095012) |
+
+### Contemporary ecosystem change and carbon-sink variability
+
+| In LES Book | Paper |
+|---|---|
+| Yes | [@ahlstrom2015semiarid], [“The dominant role of semi-arid ecosystems in the trend and variability of the land CO2 sink”](https://doi.org/10.1126/science.aaa1668) |
+| Yes | [@humphrey2018water], [“Sensitivity of atmospheric CO2 growth rate to observed changes in terrestrial water storage”](https://doi.org/10.1038/s41586-018-0424-4) |
+|  | [@luyssaert2008oldgrowth], [“Old-growth forests as global carbon sinks”](https://doi.org/10.1038/nature07276) |
+| Yes | [@pan2011forest], [“A large and persistent carbon sink in the world's forests”](https://doi.org/10.1126/science.1201609) |
+|  | [@brienen2015amazon], [“Long-term decline of the Amazon carbon sink”](https://doi.org/10.1038/nature14283) |
+|  | [@brienen2020lifespan], [“Forest carbon sink neutralized by pervasive growth--lifespan trade-offs”](https://doi.org/10.1038/s41467-020-17966-z) |
+|  | [@penuelas2011wue], [“Increased water-use efficiency during the 20th century did not translate into enhanced tree growth”](https://doi.org/10.1111/j.1466-8238.2010.00608.x) |
+
+### Observation systems, traits, and experiments
+
+| In LES Book | Paper |
+|---|---|
+| Yes | [@hansen2013forest], [“High-Resolution Global Maps of 21st-Century Forest Cover Change”](https://doi.org/10.1126/science.1244693) |
+|  | [@poorter2012allocation], [“Biomass allocation to leaves, stems and roots: meta-analyses of interspecific variation and environmental control”](https://doi.org/10.1111/j.1469-8137.2011.03952.x) |
+| Yes | [@ainsworth2005face], [“What have we learned from 15 years of free-air CO2 enrichment (FACE)?”](https://doi.org/10.1111/j.1469-8137.2004.01224.x) |
+|  | [@macdonald2006peatlands], [“Rapid Early Development of Circumarctic Peatlands and Atmospheric CH4 and CO2 Variations”](https://doi.org/10.1126/science.1131722) |
+| Yes | [@joos2008forcing], [“Rates of change in natural and anthropogenic radiative forcing over the past 20,000 years”](https://doi.org/10.1073/pnas.0707386105) |
+
+### Natural non-CO2 emissions and short-lived forcing
+
+| In LES Book | Paper |
+|---|---|
+| Yes | [@riley2011methane], [“Barriers to predicting changes in global terrestrial methane fluxes”](https://doi.org/10.5194/bg-8-1925-2011) |
+|  | [@qiu2022peatlands], [“A strong mitigation scenario maintains climate neutrality of northern peatlands”](https://doi.org/10.1016/j.oneear.2021.12.008) |
+| Yes | [@shindell2012mitigation], [“Simultaneously mitigating near-term climate change and improving human health and food security”](https://doi.org/10.1126/science.1210026) |
+
+### Land use, mitigation, and tipping points
+
+| In LES Book | Paper |
+|---|---|
+| Yes | [@bala2007deforestation], [“Combined climate and carbon-cycle effects of large-scale deforestation”](https://doi.org/10.1073/pnas.0608998104) |
+| Yes | [@erb2018biomass], [“Unexpectedly large impact of forest management and grazing on global vegetation biomass”](https://doi.org/10.1038/nature25138) |
+|  | [@walker2022storage], [“The global potential for increased storage of carbon on land”](https://doi.org/10.1073/pnas.2111312119) |
+|  | [@anderegg2020risks], [“Climate-driven risks to the climate mitigation potential of forests”](https://doi.org/10.1126/science.aaz7005) |
+| Yes | [@armstrongmckay2022tipping], [“Exceeding 1.5 degrees C global warming could trigger multiple climate tipping points”](https://doi.org/10.1126/science.abn7950) |
+
+
+<!-- This collection provides direct coverage of:
+- DGVMs and land-surface models: Sitch; Ahlström; Riley; Stocker.
+- Coupled Earth-system models: Friedlingstein; Gregory; Bala; Jones.
+- Earth Observation: Hansen; Humphrey; Erb; Walker.
+- Ecosystem flux measurements: Luyssaert.
+- Forest inventories and permanent plots: Pan; Brienen et al. 2015; Erb.
+- Tree-ring widths: Brienen et al. 2020; Peñuelas et al.
+- Stable isotopes: Peñuelas et al.
+- Radiocarbon: MacDonald et al.
+- Ice cores: Joos & Spahni; MacDonald et al.
+- Plant-trait compilations: Poorter et al.
+- FACE experiments: Ainsworth & Long.
+- Natural CH₄ and N₂O: Arneth; Stocker; Riley; Qiu; Joos & Spahni.
+- Land mitigation and its limitations: Bala; Walker; Anderegg; Qiu.
+- Reversibility, overshoot and tipping: Jones; Armstrong McKay.
+- Short-lived forcing mitigation: Shindell et al. -->
