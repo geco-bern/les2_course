@@ -19,6 +19,7 @@ The following is a list of seminal papers in the fields relevant to this course,
 | Yes | [@arneth2010feedbacks], [“Terrestrial biogeochemical feedbacks in the climate system”](https://doi.org/10.1038/ngeo905) |
 | Yes | [@stocker2013multighg], [“Multiple greenhouse-gas feedbacks from the land biosphere under future climate change scenarios”](https://doi.org/10.1038/nclimate1864) |
 |  | [@jones2016negative], [“Simulating the Earth system response to negative emissions”](https://doi.org/10.1088/1748-9326/11/9/095012) |
+|  | [@palazzocorner2023stab], [“The Zero Emissions Commitment and climate stabilization”](https://www.frontiersin.org/journals/science/articles/10.3389/fsci.2023.1170744/full) |
 
 ### Contemporary ecosystem change and carbon-sink variability
 
@@ -31,6 +32,7 @@ The following is a list of seminal papers in the fields relevant to this course,
 |  | [@brienen2015amazon], [“Long-term decline of the Amazon carbon sink”](https://doi.org/10.1038/nature14283) |
 |  | [@brienen2020lifespan], [“Forest carbon sink neutralized by pervasive growth--lifespan trade-offs”](https://doi.org/10.1038/s41467-020-17966-z) |
 |  | [@penuelas2011wue], [“Increased water-use efficiency during the 20th century did not translate into enhanced tree growth”](https://doi.org/10.1111/j.1466-8238.2010.00608.x) |
+| Yes | [@zhu2016ncc], [“Greening of the Earth and its drivers”](https://www.nature.com/articles/nclimate3004) |
 
 ### Observation systems, traits, and experiments
 
@@ -49,6 +51,9 @@ The following is a list of seminal papers in the fields relevant to this course,
 | Yes | [@riley2011methane], [“Barriers to predicting changes in global terrestrial methane fluxes”](https://doi.org/10.5194/bg-8-1925-2011) |
 |  | [@qiu2022peatlands], [“A strong mitigation scenario maintains climate neutrality of northern peatlands”](https://doi.org/10.1016/j.oneear.2021.12.008) |
 | Yes | [@shindell2012mitigation], [“Simultaneously mitigating near-term climate change and improving human health and food security”](https://doi.org/10.1126/science.1210026) |
+|  | [@bridgham2013wetlandmethane], [“Methane emissions from wetlands: biogeochemical, microbial, and modeling perspectives from local to global scales”](https://pubmed.ncbi.nlm.nih.gov/23505021/) |
+| | [@butterbachbahl2013n2osoils], [“Nitrous oxide emissions from soils: how well do we understand the processes and their controls? ”](https://royalsocietypublishing.org/rstb/article/368/1621/20130122/22151/Nitrous-oxide-emissions-from-soils-how-well-do-we) |
+|  | [@davidson2013n2oagriculture], [“The contribution of manure and fertilizer nitrogen to atmospheric nitrous oxide since 1860”](https://doi.org/10.1038/ngeo608) |
 
 ### Land use, mitigation, and tipping points
 
@@ -59,8 +64,8 @@ The following is a list of seminal papers in the fields relevant to this course,
 |  | [@walker2022storage], [“The global potential for increased storage of carbon on land”](https://doi.org/10.1073/pnas.2111312119) |
 |  | [@anderegg2020risks], [“Climate-driven risks to the climate mitigation potential of forests”](https://doi.org/10.1126/science.aaz7005) |
 | Yes | [@armstrongmckay2022tipping], [“Exceeding 1.5 degrees C global warming could trigger multiple climate tipping points”](https://doi.org/10.1126/science.abn7950) |
-
-
+|  | [@fuss2018negativeemis], [“Negative emissions—Part 2: Costs, potentials and side effects”](https://iopscience.iop.org/article/10.1088/1748-9326/aabf9f) |
+|  | [@nitzbon2024permafrosttipping], [“No respite from permafrost-thaw impacts in the absence of a global tipping point”](https://doi.org/10.1038/s41558-024-02011-4) |
 <!-- This collection provides direct coverage of:
 - DGVMs and land-surface models: Sitch; Ahlström; Riley; Stocker.
 - Coupled Earth-system models: Friedlingstein; Gregory; Bala; Jones.
