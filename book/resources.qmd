@@ -18,6 +18,7 @@ The following is a list of seminal papers in the fields relevant to this course,
 | Yes | [@friedlingstein2006c4mip], [“Climate--Carbon Cycle Feedback Analysis: Results from the C4MIP Model Intercomparison”](https://doi.org/10.1175/JCLI3800.1) |
 | Yes | [@arneth2010feedbacks], [“Terrestrial biogeochemical feedbacks in the climate system”](https://doi.org/10.1038/ngeo905) |
 | Yes | [@stocker2013multighg], [“Multiple greenhouse-gas feedbacks from the land biosphere under future climate change scenarios”](https://doi.org/10.1038/nclimate1864) |
+|  | [@cox2013sensitivity], [“Sensitivity of tropical carbon to climate change constrained by carbon dioxide variability”](https://www.nature.com/articles/nature11882) |
 |  | [@jones2016negative], [“Simulating the Earth system response to negative emissions”](https://doi.org/10.1088/1748-9326/11/9/095012) |
 |  | [@palazzocorner2023stab], [“The Zero Emissions Commitment and climate stabilization”](https://www.frontiersin.org/journals/science/articles/10.3389/fsci.2023.1170744/full) |
 
@@ -33,6 +34,12 @@ The following is a list of seminal papers in the fields relevant to this course,
 |  | [@brienen2020lifespan], [“Forest carbon sink neutralized by pervasive growth--lifespan trade-offs”](https://doi.org/10.1038/s41467-020-17966-z) |
 |  | [@penuelas2011wue], [“Increased water-use efficiency during the 20th century did not translate into enhanced tree growth”](https://doi.org/10.1111/j.1466-8238.2010.00608.x) |
 | Yes | [@zhu2016ncc], [“Greening of the Earth and its drivers”](https://doi.org/10.1038/nclimate3004) |
+|  | [@zscheischler2014extremes], [“A few extreme events dominate global interannual variability in gross primary production”](https://iopscience.iop.org/article/10.1088/1748-9326/9/3/035001) |
+|  | [@novick2016demand], [“The increasing importance of atmospheric demand for ecosystem water and carbon fluxes”](https://doi.org/10.1038/nclimate3114) |
+|  | [@pellegrini2018fire], [“Fire frequency drives decadal changes in soil carbon and nitrogen and ecosystem productivity”](http://www.nature.com/articles/nature24668) |
+|  | [@graven2013seasonal], [“Enhanced seasonal exchange of CO2 by northern ecosystems since 1960”](https://www.science.org/doi/10.1126/science.1239207) |
+|  | [@esquivelmuelbert2025treesize], [“Increasing tree size across Amazonia”](https://www.nature.com/articles/s41477-025-02097-4) |
+|  | [@randerson2025weak], [“The weak land carbon sink hypothesis”](https://www.science.org/doi/10.1126/sciadv.adr5489) |
 |  |  [@baron25sci], ["Recent gains in global terrestrial carbon stocks are mostly stored in nonliving pools"](https://www.science.org/doi/10.1126/science.adk1637)
 |  |  [@ma26natee], ["Widespread carbon accumulation in mature forests remains underestimated by satellite observations"](https://doi.org/10.1038/s41559-026-03151-w)
 |  |  [@zhang26natcc], ["Greening masks stability loss in drylands"](https://doi.org/10.1038/s41558-026-02733-7)
@@ -47,6 +54,9 @@ The following is a list of seminal papers in the fields relevant to this course,
 | Yes | [@ainsworth2005face], [“What have we learned from 15 years of free-air CO2 enrichment (FACE)?”](https://doi.org/10.1111/j.1469-8137.2004.01224.x) |
 |  | [@macdonald2006peatlands], [“Rapid Early Development of Circumarctic Peatlands and Atmospheric CH4 and CO2 Variations”](https://doi.org/10.1126/science.1131722) |
 | Yes | [@joos2008forcing], [“Rates of change in natural and anthropogenic radiative forcing over the past 20,000 years”](https://doi.org/10.1073/pnas.0707386105) |
+|  | [@keeling1996sinks], [“Global and hemispheric CO2 sinks deduced from changes in atmospheric O2 concentration”](https://www.nature.com/articles/381218a0) |
+|  | [@keeling2017discrimination], [“Atmospheric evidence for a global secular increase in carbon isotopic discrimination of land photosynthesis”](https://www.pnas.org/doi/full/10.1073/pnas.1619240114) |
+|  | [@batterman2013fixation], [“Key role of symbiotic dinitrogen fixation in tropical forest secondary succession”](https://www.nature.com/articles/nature12525) |
 
 ### Natural non-CO2 emissions and short-lived forcing
 
